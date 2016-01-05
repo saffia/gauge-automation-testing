@@ -1,0 +1,6 @@
+C:\Projects\Playground\gauge-automation-testing\GaugeTest\gauge-bin\GaugeProjectTemplate.dll
+C:\Projects\Playground\gauge-automation-testing\GaugeTest\gauge-bin\GaugeProjectTemplate.pdb
+C:\Projects\Playground\gauge-automation-testing\GaugeTest\gauge-bin\Gauge.CSharp.Lib.dll
+C:\Projects\Playground\gauge-automation-testing\GaugeTest\obj\Release\GaugeTest.csprojResolveAssemblyReference.cache
+C:\Projects\Playground\gauge-automation-testing\GaugeTest\obj\Release\GaugeProjectTemplate.dll
+C:\Projects\Playground\gauge-automation-testing\GaugeTest\obj\Release\GaugeProjectTemplate.pdb
