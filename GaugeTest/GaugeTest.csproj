@@ -47,6 +47,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="PerimeterCalculations.cs" />
     <Compile Include="StepImplementation.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
@@ -55,6 +56,7 @@
     <None Include="manifest.json" />
     <None Include="packages.config" />
     <None Include="Specs\hello_world.spec" />
+    <None Include="Specs\perimeter_calculations.spec" />
   </ItemGroup>
   <ItemGroup />
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />

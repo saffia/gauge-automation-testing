@@ -26,3 +26,16 @@
 11:24:54.426 [INFO] Initializing steps cache with 6 steps
 11:24:57.915 [ERROR] Failed to respond to API request. Could not Marshal response proto: required field "AllSpecsResponse.Specs.Items.Scenario.Skipped" not set
 11:24:58.943 [ERROR] Failed to respond to API request. Could not Marshal response proto: required field "AllSpecsResponse.Specs.Items.Scenario.Skipped" not set
+13:19:26.658 [INFO] Spec file added / modified: C:\Projects\Playground\gauge-automation-testing\GaugeTest\specs\simple_interest.spec
+13:19:26.661 [INFO] Spec file added / modified: C:\Projects\Playground\gauge-automation-testing\GaugeTest\specs\simple_interest.spec
+13:19:26.661 [INFO] Spec file added / modified: C:\Projects\Playground\gauge-automation-testing\GaugeTest\specs\simple_interest.spec
+13:19:26.662 [INFO] Spec file added / modified: C:\Projects\Playground\gauge-automation-testing\GaugeTest\specs\simple_interest.spec
+13:26:09.521 [INFO] Spec file removed: C:\Projects\Playground\gauge-automation-testing\GaugeTest\specs\simple_interest.spec
+13:26:09.521 [INFO] Spec file added / modified: C:\Projects\Playground\gauge-automation-testing\GaugeTest\specs\perimeter_calculations.spec
+13:42:53.647 [INFO] Spec file removed: C:\Projects\Playground\gauge-automation-testing\GaugeTest\specs\perimeter_calculations.spec
+13:42:53.647 [INFO] Spec file added / modified: C:\Projects\Playground\gauge-automation-testing\GaugeTest\specs\perimeter_calculations.spec
+13:42:53.647 [ERROR] Failed to respond to API request. Could not Marshal response proto: required field "AllSpecsResponse.Specs.Items.Scenario.Skipped" not set
+13:42:54.017 [ERROR] Failed to respond to API request. Could not Marshal response proto: required field "AllSpecsResponse.Specs.Items.Scenario.Skipped" not set
+17:14:54.119 [INFO] Spec file removed: C:\Projects\Playground\gauge-automation-testing\GaugeTest\specs\perimeter_calculations.spec
+17:14:54.119 [INFO] Spec file added / modified: C:\Projects\Playground\gauge-automation-testing\GaugeTest\specs\perimeter_calculations.spec
+17:14:54.119 [ERROR] Failed to respond to API request. Could not Marshal response proto: required field "AllSpecsResponse.Specs.Items.Scenario.Skipped" not set

@@ -1,0 +1,339 @@
+15:56:48.281 [INFO] Initializing concepts cache with 0 concepts
+15:56:48.292 [INFO] Initializing specs cache with 3 specs
+15:56:48.292 [INFO] Watching directory: C:\Projects\Playground\gauge-automation-testing\BookListing\GaugeTest\specs
+15:56:48.342 [INFO] Initializing steps cache with 21 steps
+15:56:52.327 [ERROR] Failed to respond to API request. Could not Marshal response proto: required field "AllSpecsResponse.Specs.Items.Scenario.Skipped" not set
+15:56:54.745 [ERROR] Failed to respond to API request. Could not Marshal response proto: required field "AllSpecsResponse.Specs.Items.Scenario.Skipped" not set
+16:53:55.309 [INFO] Spec file removed: C:\Projects\Playground\gauge-automation-testing\BookListing\GaugeTest\specs\home.spec
+16:53:55.309 [INFO] Spec file added / modified: C:\Projects\Playground\gauge-automation-testing\BookListing\GaugeTest\specs\home.spec
+16:53:55.409 [ERROR] Failed to respond to API request. Could not Marshal response proto: required field "AllSpecsResponse.Specs.Items.Scenario.Skipped" not set
+16:53:55.523 [ERROR] Failed to respond to API request. Could not Marshal response proto: required field "AllSpecsResponse.Specs.Items.Scenario.Skipped" not set
+16:54:05.248 [INFO] Spec file removed: C:\Projects\Playground\gauge-automation-testing\BookListing\GaugeTest\specs\home.spec
+16:54:05.248 [INFO] Spec file added / modified: C:\Projects\Playground\gauge-automation-testing\BookListing\GaugeTest\specs\landing_page.spec
+16:56:55.363 [INFO] Spec file removed: C:\Projects\Playground\gauge-automation-testing\BookListing\GaugeTest\specs\book.spec
+16:56:55.363 [INFO] Spec file added / modified: C:\Projects\Playground\gauge-automation-testing\BookListing\GaugeTest\specs\book_listing.spec
+17:14:12.929 [INFO] Spec file removed: C:\Projects\Playground\gauge-automation-testing\BookListing\GaugeTest\specs\book_listing.spec
+17:14:12.929 [INFO] Spec file added / modified: C:\Projects\Playground\gauge-automation-testing\BookListing\GaugeTest\specs\book_listing.spec
+17:14:13.017 [ERROR] Failed to respond to API request. Could not Marshal response proto: required field "AllSpecsResponse.Specs.Items.Scenario.Skipped" not set
+17:14:13.128 [ERROR] Failed to respond to API request. Could not Marshal response proto: required field "AllSpecsResponse.Specs.Items.Scenario.Skipped" not set
+17:26:57.400 [INFO] Spec file removed: C:\Projects\Playground\gauge-automation-testing\BookListing\GaugeTest\specs\book_listing.spec
+17:26:57.400 [INFO] Spec file added / modified: C:\Projects\Playground\gauge-automation-testing\BookListing\GaugeTest\specs\book_listing.spec
+17:26:57.493 [ERROR] Failed to respond to API request. Could not Marshal response proto: required field "AllSpecsResponse.Specs.Items.Scenario.Skipped" not set
+17:26:57.779 [ERROR] Failed to respond to API request. Could not Marshal response proto: required field "AllSpecsResponse.Specs.Items.Scenario.Skipped" not set
+17:27:36.335 [INFO] Spec file removed: C:\Projects\Playground\gauge-automation-testing\BookListing\GaugeTest\specs\book_listing.spec
+17:27:36.335 [INFO] Spec file added / modified: C:\Projects\Playground\gauge-automation-testing\BookListing\GaugeTest\specs\book_listing.spec
+17:27:36.429 [ERROR] Failed to respond to API request. Could not Marshal response proto: required field "AllSpecsResponse.Specs.Items.Scenario.Skipped" not set
+17:27:36.604 [ERROR] Failed to respond to API request. Could not Marshal response proto: required field "AllSpecsResponse.Specs.Items.Scenario.Skipped" not set
+17:30:55.817 [INFO] Spec file removed: C:\Projects\Playground\gauge-automation-testing\BookListing\GaugeTest\specs\book_listing.spec
+17:30:55.817 [INFO] Spec file added / modified: C:\Projects\Playground\gauge-automation-testing\BookListing\GaugeTest\specs\book_listing.spec
+17:30:55.907 [ERROR] Failed to respond to API request. Could not Marshal response proto: required field "AllSpecsResponse.Specs.Items.Scenario.Skipped" not set
+17:30:56.196 [ERROR] Failed to respond to API request. Could not Marshal response proto: required field "AllSpecsResponse.Specs.Items.Scenario.Skipped" not set
+17:31:37.833 [INFO] Spec file removed: C:\Projects\Playground\gauge-automation-testing\BookListing\GaugeTest\specs\book_listing.spec
+17:31:37.833 [INFO] Spec file added / modified: C:\Projects\Playground\gauge-automation-testing\BookListing\GaugeTest\specs\book_listing.spec
+17:31:37.912 [ERROR] Failed to respond to API request. Could not Marshal response proto: required field "AllSpecsResponse.Specs.Items.Scenario.Skipped" not set
+17:31:38.045 [ERROR] Failed to respond to API request. Could not Marshal response proto: required field "AllSpecsResponse.Specs.Items.Scenario.Skipped" not set
+17:32:26.955 [INFO] Spec file removed: C:\Projects\Playground\gauge-automation-testing\BookListing\GaugeTest\specs\book_listing.spec
+17:32:26.955 [INFO] Spec file added / modified: C:\Projects\Playground\gauge-automation-testing\BookListing\GaugeTest\specs\book_listing.spec
+17:32:27.032 [ERROR] Failed to respond to API request. Could not Marshal response proto: required field "AllSpecsResponse.Specs.Items.Scenario.Skipped" not set
+17:32:27.151 [ERROR] Failed to respond to API request. Could not Marshal response proto: required field "AllSpecsResponse.Specs.Items.Scenario.Skipped" not set
+est\specs
+16:50:16.552 [INFO] Initializing steps cache with 21 steps
+16:51:02.418 [INFO] Initializing concepts cache with 0 concepts
+16:51:02.422 [INFO] Initializing specs cache with 3 specs
+16:51:02.422 [INFO] Watching directory: C:\Projects\Playground\gauge-automation-testing\BookListing\GaugeTest\specs
+16:51:02.467 [INFO] Initializing steps cache with 21 steps
+16:52:27.060 [INFO] Initializing concepts cache with 0 concepts
+16:52:27.064 [INFO] Initializing specs cache with 3 specs
+16:52:27.064 [INFO] Watching directory: C:\Projects\Playground\gauge-automation-testing\BookListing\GaugeTest\specs
+16:52:27.111 [INFO] Initializing steps cache with 21 steps
+16:52:46.382 [INFO] Initializing concepts cache with 0 concepts
+16:52:46.386 [INFO] Initializing specs cache with 3 specs
+16:52:46.386 [INFO] Watching directory: C:\Projects\Playground\gauge-automation-testing\BookListing\GaugeTest\specs
+16:52:46.434 [INFO] Initializing steps cache with 21 steps
+17:31:45.766 [INFO] Initializing concepts cache with 0 concepts
+17:31:45.771 [INFO] Initializing specs cache with 3 specs
+17:31:45.771 [INFO] Watching directory: C:\Projects\Playground\gauge-automation-testing\BookListing\GaugeTest\specs
+17:31:45.818 [INFO] Initializing steps cache with 27 steps
+09:20:51.055 [INFO] Initializing concepts cache with 0 concepts
+09:20:51.062 [INFO] Watching directory: C:\Projects\Playground\gauge-automation-testing\BookListing\GaugeTest\specs
+09:20:51.062 [INFO] Initializing specs cache with 3 specs
+09:20:51.113 [INFO] Initializing steps cache with 28 steps
+09:20:56.627 [ERROR] Failed to respond to API request. Could not Marshal response proto: required field "AllSpecsResponse.Specs.Items.Scenario.Skipped" not set
+09:20:58.379 [ERROR] Failed to respond to API request. Could not Marshal response proto: required field "AllSpecsResponse.Specs.Items.Scenario.Skipped" not set
+09:22:18.170 [INFO] Spec file removed: C:\Projects\Playground\gauge-automation-testing\BookListing\GaugeTest\specs\book_listing.spec
+09:22:18.170 [INFO] Spec file added / modified: C:\Projects\Playground\gauge-automation-testing\BookListing\GaugeTest\specs\book_listing.spec
+09:22:18.173 [ERROR] Failed to respond to API request. Could not Marshal response proto: required field "AllSpecsResponse.Specs.Items.Scenario.Skipped" not set
+09:22:18.367 [ERROR] Failed to respond to API request. Could not Marshal response proto: required field "AllSpecsResponse.Specs.Items.Scenario.Skipped" not set
+09:22:58.409 [INFO] Initializing concepts cache with 0 concepts
+09:22:58.413 [INFO] Initializing specs cache with 3 specs
+09:22:58.413 [INFO] Watching directory: C:\Projects\Playground\gauge-automation-testing\BookListing\GaugeTest\specs
+09:22:58.460 [INFO] Initializing steps cache with 27 steps
+09:23:12.572 [INFO] Initializing concepts cache with 0 concepts
+09:23:12.576 [INFO] Initializing specs cache with 3 specs
+09:23:12.576 [INFO] Watching directory: C:\Projects\Playground\gauge-automation-testing\BookListing\GaugeTest\specs
+09:23:12.623 [INFO] Initializing steps cache with 27 steps
+09:23:27.488 [INFO] Initializing concepts cache with 0 concepts
+09:23:27.492 [INFO] Initializing specs cache with 3 specs
+09:23:27.492 [INFO] Watching directory: C:\Projects\Playground\gauge-automation-testing\BookListing\GaugeTest\specs
+09:23:27.540 [INFO] Initializing steps cache with 27 steps
+09:24:04.935 [INFO] Initializing concepts cache with 0 concepts
+09:24:04.940 [INFO] Initializing specs cache with 3 specs
+09:24:04.940 [INFO] Watching directory: C:\Projects\Playground\gauge-automation-testing\BookListing\GaugeTest\specs
+09:24:04.987 [INFO] Initializing steps cache with 27 steps
+09:24:38.069 [INFO] Spec file removed: C:\Projects\Playground\gauge-automation-testing\BookListing\GaugeTest\specs\book_listing.spec
+09:24:38.069 [INFO] Spec file added / modified: C:\Projects\Playground\gauge-automation-testing\BookListing\GaugeTest\specs\book_listing.spec
+09:24:38.071 [ERROR] Failed to respond to API request. Could not Marshal response proto: required field "AllSpecsResponse.Specs.Items.Scenario.Skipped" not set
+09:24:38.378 [ERROR] Failed to respond to API request. Could not Marshal response proto: required field "AllSpecsResponse.Specs.Items.Scenario.Skipped" not set
+09:24:54.070 [INFO] Initializing concepts cache with 0 concepts
+09:24:54.074 [INFO] Initializing specs cache with 3 specs
+09:24:54.074 [INFO] Watching directory: C:\Projects\Playground\gauge-automation-testing\BookListing\GaugeTest\specs
+09:24:54.121 [INFO] Initializing steps cache with 28 steps
+09:25:39.202 [INFO] Initializing concepts cache with 0 concepts
+09:25:39.206 [INFO] Initializing specs cache with 3 specs
+09:25:39.206 [INFO] Watching directory: C:\Projects\Playground\gauge-automation-testing\BookListing\GaugeTest\specs
+09:25:39.253 [INFO] Initializing steps cache with 28 steps
+09:26:23.116 [INFO] Initializing concepts cache with 0 concepts
+09:26:23.120 [INFO] Initializing specs cache with 3 specs
+09:26:23.120 [INFO] Watching directory: C:\Projects\Playground\gauge-automation-testing\BookListing\GaugeTest\specs
+09:26:23.165 [INFO] Initializing steps cache with 28 steps
+09:53:40.042 [INFO] Initializing concepts cache with 0 concepts
+09:53:40.048 [INFO] Initializing specs cache with 3 specs
+09:53:40.048 [INFO] Watching directory: C:\Projects\Playground\gauge-automation-testing\BookListing\GaugeTest\specs
+09:53:40.094 [INFO] Initializing steps cache with 28 steps
+09:53:57.653 [INFO] Initializing concepts cache with 0 concepts
+09:53:57.658 [INFO] Initializing specs cache with 3 specs
+09:53:57.658 [INFO] Watching directory: C:\Projects\Playground\gauge-automation-testing\BookListing\GaugeTest\specs
+09:53:57.705 [INFO] Initializing steps cache with 28 steps
+09:54:29.384 [INFO] Initializing concepts cache with 0 concepts
+09:54:29.388 [INFO] Initializing specs cache with 3 specs
+09:54:29.388 [INFO] Watching directory: C:\Projects\Playground\gauge-automation-testing\BookListing\GaugeTest\specs
+09:54:29.432 [INFO] Initializing steps cache with 28 steps
+09:54:46.411 [INFO] Initializing concepts cache with 0 concepts
+09:54:46.416 [INFO] Initializing specs cache with 3 specs
+09:54:46.416 [INFO] Watching directory: C:\Projects\Playground\gauge-automation-testing\BookListing\GaugeTest\specs
+09:54:46.465 [INFO] Initializing steps cache with 28 steps
+09:55:05.691 [INFO] Initializing concepts cache with 0 concepts
+09:55:05.695 [INFO] Initializing specs cache with 3 specs
+09:55:05.695 [INFO] Watching directory: C:\Projects\Playground\gauge-automation-testing\BookListing\GaugeTest\specs
+09:55:05.740 [INFO] Initializing steps cache with 28 steps
+09:55:23.825 [INFO] Initializing concepts cache with 0 concepts
+09:55:23.829 [INFO] Initializing specs cache with 3 specs
+09:55:23.829 [INFO] Watching directory: C:\Projects\Playground\gauge-automation-testing\BookListing\GaugeTest\specs
+09:55:23.874 [INFO] Initializing steps cache with 28 steps
+10:01:12.392 [INFO] Initializing concepts cache with 0 concepts
+10:01:12.397 [INFO] Initializing specs cache with 3 specs
+10:01:12.397 [INFO] Watching directory: C:\Projects\Playground\gauge-automation-testing\BookListing\GaugeTest\specs
+10:01:12.442 [INFO] Initializing steps cache with 28 steps
+10:01:54.959 [INFO] Initializing concepts cache with 0 concepts
+10:01:54.963 [INFO] Initializing specs cache with 3 specs
+10:01:54.963 [INFO] Watching directory: C:\Projects\Playground\gauge-automation-testing\BookListing\GaugeTest\specs
+10:01:55.008 [INFO] Initializing steps cache with 28 steps
+10:02:11.949 [INFO] Initializing concepts cache with 0 concepts
+10:02:11.953 [INFO] Initializing specs cache with 3 specs
+10:02:11.953 [INFO] Watching directory: C:\Projects\Playground\gauge-automation-testing\BookListing\GaugeTest\specs
+10:02:11.999 [INFO] Initializing steps cache with 28 steps
+10:04:48.287 [INFO] Initializing concepts cache with 0 concepts
+10:04:48.292 [INFO] Initializing specs cache with 3 specs
+10:04:48.292 [INFO] Watching directory: C:\Projects\Playground\gauge-automation-testing\BookListing\GaugeTest\specs
+10:04:48.337 [INFO] Initializing steps cache with 28 steps
+10:05:09.195 [INFO] Initializing concepts cache with 0 concepts
+10:05:09.199 [INFO] Initializing specs cache with 3 specs
+10:05:09.199 [INFO] Watching directory: C:\Projects\Playground\gauge-automation-testing\BookListing\GaugeTest\specs
+10:05:09.274 [INFO] Initializing steps cache with 28 steps
+10:05:59.118 [INFO] Initializing concepts cache with 0 concepts
+10:05:59.123 [INFO] Initializing specs cache with 3 specs
+10:05:59.123 [INFO] Watching directory: C:\Projects\Playground\gauge-automation-testing\BookListing\GaugeTest\specs
+10:05:59.168 [INFO] Initializing steps cache with 28 steps
+10:06:13.960 [INFO] Initializing concepts cache with 0 concepts
+10:06:13.964 [INFO] Initializing specs cache with 3 specs
+10:06:13.964 [INFO] Watching directory: C:\Projects\Playground\gauge-automation-testing\BookListing\GaugeTest\specs
+10:06:14.010 [INFO] Initializing steps cache with 28 steps
+10:16:10.254 [INFO] Initializing concepts cache with 0 concepts
+10:16:10.259 [INFO] Initializing specs cache with 3 specs
+10:16:10.259 [INFO] Watching directory: C:\Projects\Playground\gauge-automation-testing\BookListing\GaugeTest\specs
+10:16:10.304 [INFO] Initializing steps cache with 28 steps
+10:18:10.939 [INFO] Initializing concepts cache with 0 concepts
+10:18:10.944 [INFO] Initializing specs cache with 3 specs
+10:18:10.944 [INFO] Watching directory: C:\Projects\Playground\gauge-automation-testing\BookListing\GaugeTest\specs
+10:18:10.988 [INFO] Initializing steps cache with 28 steps
+10:22:47.614 [INFO] Initializing concepts cache with 0 concepts
+10:22:47.618 [INFO] Initializing specs cache with 3 specs
+10:22:47.618 [INFO] Watching directory: C:\Projects\Playground\gauge-automation-testing\BookListing\GaugeTest\specs
+10:22:47.663 [INFO] Initializing steps cache with 28 steps
+10:24:16.478 [INFO] Initializing concepts cache with 0 concepts
+10:24:16.482 [INFO] Initializing specs cache with 3 specs
+10:24:16.482 [INFO] Watching directory: C:\Projects\Playground\gauge-automation-testing\BookListing\GaugeTest\specs
+10:24:16.528 [INFO] Initializing steps cache with 28 steps
+10:25:21.952 [INFO] Initializing concepts cache with 0 concepts
+10:25:21.956 [INFO] Initializing specs cache with 3 specs
+10:25:21.956 [INFO] Watching directory: C:\Projects\Playground\gauge-automation-testing\BookListing\GaugeTest\specs
+10:25:22.002 [INFO] Initializing steps cache with 28 steps
+10:25:48.045 [INFO] Spec file removed: C:\Projects\Playground\gauge-automation-testing\BookListing\GaugeTest\specs\book_listing.spec
+10:25:48.045 [INFO] Spec file added / modified: C:\Projects\Playground\gauge-automation-testing\BookListing\GaugeTest\specs\book_listing.spec
+10:25:48.046 [ERROR] Failed to respond to API request. Could not Marshal response proto: required field "AllSpecsResponse.Specs.Items.Scenario.Skipped" not set
+10:25:48.251 [ERROR] Failed to respond to API request. Could not Marshal response proto: required field "AllSpecsResponse.Specs.Items.Scenario.Skipped" not set
+10:25:55.798 [INFO] Initializing concepts cache with 0 concepts
+10:25:55.802 [INFO] Initializing specs cache with 3 specs
+10:25:55.802 [INFO] Watching directory: C:\Projects\Playground\gauge-automation-testing\BookListing\GaugeTest\specs
+10:25:55.847 [INFO] Initializing steps cache with 28 steps
+10:26:53.729 [INFO] Initializing concepts cache with 0 concepts
+10:26:53.733 [INFO] Initializing specs cache with 3 specs
+10:26:53.733 [INFO] Watching directory: C:\Projects\Playground\gauge-automation-testing\BookListing\GaugeTest\specs
+10:26:53.779 [INFO] Initializing steps cache with 28 steps
+10:28:39.426 [INFO] Initializing concepts cache with 0 concepts
+10:28:39.430 [INFO] Initializing specs cache with 3 specs
+10:28:39.430 [INFO] Watching directory: C:\Projects\Playground\gauge-automation-testing\BookListing\GaugeTest\specs
+10:28:39.476 [INFO] Initializing steps cache with 28 steps
+10:29:46.404 [INFO] Initializing concepts cache with 0 concepts
+10:29:46.408 [INFO] Initializing specs cache with 3 specs
+10:29:46.408 [INFO] Watching directory: C:\Projects\Playground\gauge-automation-testing\BookListing\GaugeTest\specs
+10:29:46.454 [INFO] Initializing steps cache with 28 steps
+10:30:46.550 [INFO] Initializing concepts cache with 0 concepts
+10:30:46.554 [INFO] Initializing specs cache with 3 specs
+10:30:46.554 [INFO] Watching directory: C:\Projects\Playground\gauge-automation-testing\BookListing\GaugeTest\specs
+10:30:46.600 [INFO] Initializing steps cache with 28 steps
+10:32:03.175 [INFO] Initializing concepts cache with 0 concepts
+10:32:03.180 [INFO] Initializing specs cache with 3 specs
+10:32:03.180 [INFO] Watching directory: C:\Projects\Playground\gauge-automation-testing\BookListing\GaugeTest\specs
+10:32:03.226 [INFO] Initializing steps cache with 28 steps
+10:36:27.982 [INFO] Initializing concepts cache with 0 concepts
+10:36:27.987 [INFO] Initializing specs cache with 3 specs
+10:36:27.987 [INFO] Watching directory: C:\Projects\Playground\gauge-automation-testing\BookListing\GaugeTest\specs
+10:36:28.032 [INFO] Initializing steps cache with 28 steps
+10:36:43.987 [INFO] Initializing concepts cache with 0 concepts
+10:36:43.989 [INFO] Watching directory: C:\Projects\Playground\gauge-automation-testing\BookListing\GaugeTest\specs
+10:36:43.991 [INFO] Initializing specs cache with 3 specs
+10:36:44.037 [INFO] Initializing steps cache with 28 steps
+10:39:19.910 [INFO] Spec file removed: C:\Projects\Playground\gauge-automation-testing\BookListing\GaugeTest\specs\book_listing.spec
+10:39:19.910 [INFO] Spec file added / modified: C:\Projects\Playground\gauge-automation-testing\BookListing\GaugeTest\specs\book_listing.spec
+10:39:19.914 [ERROR] Failed to respond to API request. Could not Marshal response proto: required field "AllSpecsResponse.Specs.Items.Scenario.Skipped" not set
+10:39:20.152 [ERROR] Failed to respond to API request. Could not Marshal response proto: required field "AllSpecsResponse.Specs.Items.Scenario.Skipped" not set
+10:41:04.308 [INFO] Spec file removed: C:\Projects\Playground\gauge-automation-testing\BookListing\GaugeTest\specs\book_listing.spec
+10:41:04.308 [INFO] Spec file added / modified: C:\Projects\Playground\gauge-automation-testing\BookListing\GaugeTest\specs\book_listing.spec
+10:41:04.309 [ERROR] Failed to respond to API request. Could not Marshal response proto: required field "AllSpecsResponse.Specs.Items.Scenario.Skipped" not set
+10:41:04.697 [ERROR] Failed to respond to API request. Could not Marshal response proto: required field "AllSpecsResponse.Specs.Items.Scenario.Skipped" not set
+10:42:09.900 [INFO] Initializing concepts cache with 0 concepts
+10:42:09.905 [INFO] Initializing specs cache with 3 specs
+10:42:09.905 [INFO] Watching directory: C:\Projects\Playground\gauge-automation-testing\BookListing\GaugeTest\specs
+10:42:09.953 [INFO] Initializing steps cache with 28 steps
+10:42:27.977 [INFO] Initializing concepts cache with 0 concepts
+10:42:27.980 [INFO] Initializing specs cache with 3 specs
+10:42:27.980 [INFO] Watching directory: C:\Projects\Playground\gauge-automation-testing\BookListing\GaugeTest\specs
+10:42:28.027 [INFO] Initializing steps cache with 28 steps
+10:43:13.635 [INFO] Spec file removed: C:\Projects\Playground\gauge-automation-testing\BookListing\GaugeTest\specs\book_listing.spec
+10:43:13.635 [INFO] Spec file added / modified: C:\Projects\Playground\gauge-automation-testing\BookListing\GaugeTest\specs\book_listing.spec
+10:43:13.636 [ERROR] Failed to respond to API request. Could not Marshal response proto: required field "AllSpecsResponse.Specs.Items.Scenario.Skipped" not set
+10:43:13.954 [ERROR] Failed to respond to API request. Could not Marshal response proto: required field "AllSpecsResponse.Specs.Items.Scenario.Skipped" not set
+10:43:56.163 [INFO] Initializing concepts cache with 0 concepts
+10:43:56.167 [INFO] Initializing specs cache with 3 specs
+10:43:56.167 [INFO] Watching directory: C:\Projects\Playground\gauge-automation-testing\BookListing\GaugeTest\specs
+10:43:56.215 [INFO] Initializing steps cache with 28 steps
+10:44:27.571 [INFO] Initializing concepts cache with 0 concepts
+10:44:27.575 [INFO] Initializing specs cache with 3 specs
+10:44:27.575 [INFO] Watching directory: C:\Projects\Playground\gauge-automation-testing\BookListing\GaugeTest\specs
+10:44:27.622 [INFO] Initializing steps cache with 28 steps
+10:48:17.724 [INFO] Spec file removed: C:\Projects\Playground\gauge-automation-testing\BookListing\GaugeTest\specs\book_listing.spec
+10:48:17.724 [INFO] Spec file added / modified: C:\Projects\Playground\gauge-automation-testing\BookListing\GaugeTest\specs\book_listing.spec
+10:48:17.725 [ERROR] Failed to respond to API request. Could not Marshal response proto: required field "AllSpecsResponse.Specs.Items.Scenario.Skipped" not set
+10:48:17.947 [ERROR] Failed to respond to API request. Could not Marshal response proto: required field "AllSpecsResponse.Specs.Items.Scenario.Skipped" not set
+10:50:14.637 [INFO] Initializing concepts cache with 0 concepts
+10:50:14.641 [INFO] Initializing specs cache with 3 specs
+10:50:14.641 [INFO] Watching directory: C:\Projects\Playground\gauge-automation-testing\BookListing\GaugeTest\specs
+10:50:14.688 [INFO] Initializing steps cache with 30 steps
+10:51:09.487 [INFO] Initializing concepts cache with 0 concepts
+10:51:09.492 [INFO] Initializing specs cache with 3 specs
+10:51:09.492 [INFO] Watching directory: C:\Projects\Playground\gauge-automation-testing\BookListing\GaugeTest\specs
+10:51:09.538 [INFO] Initializing steps cache with 30 steps
+10:53:12.211 [INFO] Initializing concepts cache with 0 concepts
+10:53:12.215 [INFO] Initializing specs cache with 3 specs
+10:53:12.215 [INFO] Watching directory: C:\Projects\Playground\gauge-automation-testing\BookListing\GaugeTest\specs
+10:53:12.260 [INFO] Initializing steps cache with 30 steps
+10:55:29.583 [INFO] Spec file removed: C:\Projects\Playground\gauge-automation-testing\BookListing\GaugeTest\specs\book_listing.spec
+10:55:29.583 [INFO] Spec file added / modified: C:\Projects\Playground\gauge-automation-testing\BookListing\GaugeTest\specs\book_listing.spec
+10:55:29.584 [ERROR] Failed to respond to API request. Could not Marshal response proto: required field "AllSpecsResponse.Specs.Items.Scenario.Skipped" not set
+10:55:29.841 [ERROR] Failed to respond to API request. Could not Marshal response proto: required field "AllSpecsResponse.Specs.Items.Scenario.Skipped" not set
+10:55:55.418 [INFO] Initializing concepts cache with 0 concepts
+10:55:55.422 [INFO] Initializing specs cache with 3 specs
+10:55:55.422 [INFO] Watching directory: C:\Projects\Playground\gauge-automation-testing\BookListing\GaugeTest\specs
+10:55:55.467 [INFO] Initializing steps cache with 30 steps
+10:59:03.845 [INFO] Initializing concepts cache with 0 concepts
+10:59:03.850 [INFO] Initializing specs cache with 3 specs
+10:59:03.850 [INFO] Watching directory: C:\Projects\Playground\gauge-automation-testing\BookListing\GaugeTest\specs
+10:59:03.897 [INFO] Initializing steps cache with 30 steps
+10:59:40.491 [INFO] Initializing concepts cache with 0 concepts
+10:59:40.495 [INFO] Initializing specs cache with 3 specs
+10:59:40.495 [INFO] Watching directory: C:\Projects\Playground\gauge-automation-testing\BookListing\GaugeTest\specs
+10:59:40.542 [INFO] Initializing steps cache with 30 steps
+11:00:33.176 [INFO] Initializing concepts cache with 0 concepts
+11:00:33.181 [INFO] Initializing specs cache with 3 specs
+11:00:33.181 [INFO] Watching directory: C:\Projects\Playground\gauge-automation-testing\BookListing\GaugeTest\specs
+11:00:33.227 [INFO] Initializing steps cache with 30 steps
+11:04:02.304 [INFO] Spec file removed: C:\Projects\Playground\gauge-automation-testing\BookListing\GaugeTest\specs\book_listing.spec
+11:04:02.304 [INFO] Spec file added / modified: C:\Projects\Playground\gauge-automation-testing\BookListing\GaugeTest\specs\book_listing.spec
+11:04:02.305 [ERROR] Failed to respond to API request. Could not Marshal response proto: required field "AllSpecsResponse.Specs.Items.Scenario.Skipped" not set
+11:04:02.563 [ERROR] Failed to respond to API request. Could not Marshal response proto: required field "AllSpecsResponse.Specs.Items.Scenario.Skipped" not set
+14:13:04.248 [INFO] Initializing concepts cache with 0 concepts
+14:13:04.254 [INFO] Watching directory: C:\Projects\Playground\gauge-automation-testing\BookListing\GaugeTest\specs
+14:13:04.255 [INFO] Initializing specs cache with 3 specs
+14:13:04.302 [INFO] Initializing steps cache with 30 steps
+14:55:51.683 [INFO] Spec file removed: C:\Projects\Playground\gauge-automation-testing\BookListing\GaugeTest\specs\book_listing.spec
+14:55:51.683 [INFO] Spec file added / modified: C:\Projects\Playground\gauge-automation-testing\BookListing\GaugeTest\specs\book_listing.spec
+14:55:51.684 [ERROR] Failed to respond to API request. Could not Marshal response proto: required field "AllSpecsResponse.Specs.Items.Scenario.Skipped" not set
+14:55:51.912 [ERROR] Failed to respond to API request. Could not Marshal response proto: required field "AllSpecsResponse.Specs.Items.Scenario.Skipped" not set
+14:57:41.694 [INFO] Initializing concepts cache with 0 concepts
+14:57:41.699 [INFO] Initializing specs cache with 3 specs
+14:57:41.699 [INFO] Watching directory: C:\Projects\Playground\gauge-automation-testing\BookListing\GaugeTest\specs
+14:57:41.746 [INFO] Initializing steps cache with 30 steps
+14:57:45.037 [INFO] Initializing concepts cache with 0 concepts
+14:57:45.041 [INFO] Initializing specs cache with 3 specs
+14:57:45.041 [INFO] Watching directory: C:\Projects\Playground\gauge-automation-testing\BookListing\GaugeTest\specs
+14:57:45.089 [INFO] Initializing steps cache with 30 steps
+14:57:49.479 [INFO] Initializing concepts cache with 0 concepts
+14:57:49.483 [INFO] Initializing specs cache with 3 specs
+14:57:49.483 [INFO] Watching directory: C:\Projects\Playground\gauge-automation-testing\BookListing\GaugeTest\specs
+14:57:49.529 [INFO] Initializing steps cache with 30 steps
+14:58:25.976 [INFO] Initializing concepts cache with 0 concepts
+14:58:25.980 [INFO] Initializing specs cache with 3 specs
+14:58:25.980 [INFO] Watching directory: C:\Projects\Playground\gauge-automation-testing\BookListing\GaugeTest\specs
+14:58:26.025 [INFO] Initializing steps cache with 30 steps
+14:58:57.686 [INFO] Initializing concepts cache with 0 concepts
+14:58:57.690 [INFO] Initializing specs cache with 3 specs
+14:58:57.690 [INFO] Watching directory: C:\Projects\Playground\gauge-automation-testing\BookListing\GaugeTest\specs
+14:58:57.737 [INFO] Initializing steps cache with 30 steps
+14:59:06.846 [INFO] Initializing concepts cache with 0 concepts
+14:59:06.851 [INFO] Initializing specs cache with 3 specs
+14:59:06.851 [INFO] Watching directory: C:\Projects\Playground\gauge-automation-testing\BookListing\GaugeTest\specs
+14:59:06.899 [INFO] Initializing steps cache with 30 steps
+14:59:48.172 [ERROR] Failed to respond to API request. Could not Marshal response proto: required field "AllSpecsResponse.Specs.Items.Scenario.Skipped" not set
+14:59:49.158 [INFO] Initializing concepts cache with 0 concepts
+14:59:49.161 [INFO] Watching directory: C:\Projects\Playground\gauge-automation-testing\BookListing\GaugeTest\specs
+14:59:49.163 [INFO] Initializing specs cache with 3 specs
+14:59:49.213 [INFO] Initializing steps cache with 30 steps
+14:59:57.926 [INFO] Initializing concepts cache with 0 concepts
+14:59:57.931 [INFO] Initializing specs cache with 3 specs
+14:59:57.931 [INFO] Watching directory: C:\Projects\Playground\gauge-automation-testing\BookListing\GaugeTest\specs
+14:59:57.976 [INFO] Initializing steps cache with 30 steps
+15:00:03.924 [INFO] Initializing concepts cache with 0 concepts
+15:00:03.928 [INFO] Initializing specs cache with 3 specs
+15:00:03.928 [INFO] Watching directory: C:\Projects\Playground\gauge-automation-testing\BookListing\GaugeTest\specs
+15:00:03.983 [INFO] Initializing steps cache with 30 steps
+15:00:09.807 [INFO] Initializing concepts cache with 0 concepts
+15:00:09.812 [INFO] Initializing specs cache with 3 specs
+15:00:09.812 [INFO] Watching directory: C:\Projects\Playground\gauge-automation-testing\BookListing\GaugeTest\specs
+15:00:09.857 [INFO] Initializing steps cache with 30 steps
+15:00:45.837 [INFO] Initializing concepts cache with 0 concepts
+15:00:45.841 [INFO] Initializing specs cache with 3 specs
+15:00:45.841 [INFO] Watching directory: C:\Projects\Playground\gauge-automation-testing\BookListing\GaugeTest\specs
+15:00:45.932 [INFO] Initializing steps cache with 30 steps
+15:00:52.103 [INFO] Initializing concepts cache with 0 concepts
+15:00:52.108 [INFO] Initializing specs cache with 3 specs
+15:00:52.108 [INFO] Watching directory: C:\Projects\Playground\gauge-automation-testing\BookListing\GaugeTest\specs
+15:00:52.154 [INFO] Initializing steps cache with 30 steps
+15:00:57.994 [INFO] Initializing concepts cache with 0 concepts
+15:00:57.998 [INFO] Initializing specs cache with 3 specs
+15:00:57.998 [INFO] Watching directory: C:\Projects\Playground\gauge-automation-testing\BookListing\GaugeTest\specs
+15:00:58.046 [INFO] Initializing steps cache with 30 steps
+15:01:01.271 [INFO] Initializing concepts cache with 0 concepts
+15:01:01.276 [INFO] Initializing specs cache with 3 specs
+15:01:01.276 [INFO] Watching directory: C:\Projects\Playground\gauge-automation-testing\BookListing\GaugeTest\specs
+15:01:01.323 [INFO] Initializing steps cache with 30 steps

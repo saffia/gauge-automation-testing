@@ -1,0 +1,17 @@
+C:\Projects\Playground\gauge-automation-testing\BookListing\GaugeTest\gauge-bin\GaugeProjectTemplate.dll
+C:\Projects\Playground\gauge-automation-testing\BookListing\GaugeTest\gauge-bin\GaugeProjectTemplate.pdb
+C:\Projects\Playground\gauge-automation-testing\BookListing\GaugeTest\gauge-bin\Gauge.CSharp.Lib.dll
+C:\Projects\Playground\gauge-automation-testing\BookListing\GaugeTest\gauge-bin\nunit.framework.dll
+C:\Projects\Playground\gauge-automation-testing\BookListing\GaugeTest\gauge-bin\WebDriver.dll
+C:\Projects\Playground\gauge-automation-testing\BookListing\GaugeTest\gauge-bin\nunit.framework.xml
+C:\Projects\Playground\gauge-automation-testing\BookListing\GaugeTest\gauge-bin\WebDriver.xml
+C:\Projects\Playground\gauge-automation-testing\BookListing\GaugeTest\bin\Release\GaugeProjectTemplate.dll
+C:\Projects\Playground\gauge-automation-testing\BookListing\GaugeTest\bin\Release\GaugeProjectTemplate.pdb
+C:\Projects\Playground\gauge-automation-testing\BookListing\GaugeTest\bin\Release\Gauge.CSharp.Lib.dll
+C:\Projects\Playground\gauge-automation-testing\BookListing\GaugeTest\bin\Release\nunit.framework.dll
+C:\Projects\Playground\gauge-automation-testing\BookListing\GaugeTest\bin\Release\WebDriver.dll
+C:\Projects\Playground\gauge-automation-testing\BookListing\GaugeTest\bin\Release\nunit.framework.xml
+C:\Projects\Playground\gauge-automation-testing\BookListing\GaugeTest\bin\Release\WebDriver.xml
+C:\Projects\Playground\gauge-automation-testing\BookListing\GaugeTest\obj\Release\GaugeProjectTemplate.dll
+C:\Projects\Playground\gauge-automation-testing\BookListing\GaugeTest\obj\Release\GaugeProjectTemplate.pdb
+C:\Projects\Playground\gauge-automation-testing\BookListing\GaugeTest\obj\Release\GaugeTest.csprojResolveAssemblyReference.cache
