@@ -14,4 +14,4 @@ C:\Projects\Playground\gauge-automation-testing\BookListing\GaugeTest\bin\Releas
 C:\Projects\Playground\gauge-automation-testing\BookListing\GaugeTest\bin\Release\WebDriver.xml
 C:\Projects\Playground\gauge-automation-testing\BookListing\GaugeTest\obj\Release\GaugeProjectTemplate.dll
 C:\Projects\Playground\gauge-automation-testing\BookListing\GaugeTest\obj\Release\GaugeProjectTemplate.pdb
-C:\Projects\Playground\gauge-automation-testing\BookListing\GaugeTest\obj\Release\GaugeTest.csprojResolveAssemblyReference.cache
+C:\Projects\Playground\gauge-automation-testing\BookListing\GaugeTest\bin\Release\chromedriver.exe

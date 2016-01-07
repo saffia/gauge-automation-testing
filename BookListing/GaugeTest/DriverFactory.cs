@@ -6,6 +6,7 @@ using System.Threading.Tasks;
 using Gauge.CSharp.Lib.Attribute;
 using OpenQA.Selenium;
 using OpenQA.Selenium.Chrome;
+using OpenQA.Selenium.Firefox;
 
 namespace GaugeProjectTemplate
 {
@@ -20,7 +21,7 @@ namespace GaugeProjectTemplate
 		[BeforeSuite]
 		public static void Setup()
 		{
-			Driver = new ChromeDriver("C:\\Projects\\Playground\\gauge-automation-testing\\BookListing\\GaugeTest");
+			Driver = new FirefoxDriver();
 			Driver.Manage().Timeouts().ImplicitlyWait(TimeSpan.FromSeconds(15));
 		}
 

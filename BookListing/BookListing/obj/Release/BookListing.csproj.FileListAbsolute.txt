@@ -22,6 +22,5 @@ C:\Projects\Playground\gauge-automation-testing\BookListing\BookListing\bin\Syst
 C:\Projects\Playground\gauge-automation-testing\BookListing\BookListing\bin\System.Web.WebPages.Razor.xml
 C:\Projects\Playground\gauge-automation-testing\BookListing\BookListing\bin\Antlr3.Runtime.pdb
 C:\Projects\Playground\gauge-automation-testing\BookListing\BookListing\bin\Newtonsoft.Json.xml
-C:\Projects\Playground\gauge-automation-testing\BookListing\BookListing\obj\Release\BookListing.csprojResolveAssemblyReference.cache
 C:\Projects\Playground\gauge-automation-testing\BookListing\BookListing\obj\Release\BookListing.dll
 C:\Projects\Playground\gauge-automation-testing\BookListing\BookListing\obj\Release\BookListing.pdb
