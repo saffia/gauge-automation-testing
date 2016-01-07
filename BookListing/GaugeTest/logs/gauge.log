@@ -1717,3 +1717,594 @@ Gocd|Continuous delivery platform
 15:18:08.503 [INFO] Specifications: 	1 executed, 1 passed, 0 failed, 0 skipped
 15:18:08.503 [INFO] Scenarios: 	1 executed, 1 passed, 0 failed, 0 skipped
 15:18:08.503 [INFO] Total time taken: 4.974s
+15:18:10.459 [INFO] 1452172690460	addons.manager	DEBUG	Application has been upgraded
+15:18:10.460 [INFO] 
+15:18:10.468 [INFO] 1452172690469	addons.manager	DEBUG	Loaded provider scope for resource://gre/modules/addons/XPIProvider.jsm: ["XPIProvider"]
+15:18:10.469 [INFO] 1452172690470	addons.manager	DEBUG	Loaded provider scope for resource://gre/modules/LightweightThemeManager.jsm: ["LightweightThemeManager"]
+15:18:10.469 [INFO] 
+15:18:10.471 [INFO] 1452172690472	addons.manager	DEBUG	Loaded provider scope for resource://gre/modules/addons/GMPProvider.jsm
+15:18:10.471 [INFO] 
+15:18:10.472 [INFO] 1452172690473	addons.manager	DEBUG	Loaded provider scope for resource://gre/modules/addons/PluginProvider.jsm
+15:18:10.472 [INFO] 1452172690473	addons.manager	DEBUG	Starting provider: XPIProvider
+15:18:10.473 [INFO] 1452172690473	addons.xpi	DEBUG	startup
+15:18:10.473 [INFO] 
+15:18:10.473 [INFO] 1452172690474	addons.xpi	INFO	Mapping fxdriver@googlecode.com to C:\Users\saffia.NEWMEDIALABS\AppData\Local\Temp\anonymous.e8f94bbd42d2474aadc8e8504b0e159c.webdriver-profile\extensions\fxdriver@googlecode.com
+15:18:10.473 [INFO] 
+15:18:10.473 [INFO] 1452172690474	addons.xpi	INFO	SystemAddonInstallLocation directory is missing
+15:18:10.474 [INFO] 1452172690475	addons.xpi	INFO	Mapping {972ce4c6-7e08-4474-a285-3208198ce6fd} to C:\Program Files (x86)\Mozilla Firefox\browser\extensions\{972ce4c6-7e08-4474-a285-3208198ce6fd}
+15:18:10.474 [INFO] 
+15:18:10.474 [INFO] 1452172690475	addons.xpi	DEBUG	Skipping unavailable install location app-system-share
+15:18:10.474 [INFO] 1452172690475	addons.xpi	DEBUG	Skipping unavailable install location app-system-local
+15:18:10.475 [INFO] 1452172690475	addons.xpi	INFO	Mapping fiddlerhook@fiddler2.com to C:\Program Files (x86)\Fiddler2\FiddlerHook
+15:18:10.475 [INFO] 1452172690475	addons.xpi	DEBUG	checkForChanges
+15:18:10.475 [INFO] 
+15:18:10.475 [INFO] 1452172690476	addons.xpi	DEBUG	Loaded add-on state from prefs: {}
+15:18:10.475 [INFO] 1452172690476	addons.xpi	DEBUG	New add-on fxdriver@googlecode.com in app-profile
+15:18:10.476 [INFO] 
+15:18:10.476 [INFO] 1452172690476	addons.xpi	DEBUG	getModTime: Recursive scan of fxdriver@googlecode.com
+15:18:10.476 [INFO] 
+15:18:10.479 [INFO] 1452172690479	addons.xpi	DEBUG	New add-on {972ce4c6-7e08-4474-a285-3208198ce6fd} in app-global
+15:18:10.479 [INFO] 
+15:18:10.479 [INFO] 1452172690480	addons.xpi	DEBUG	getModTime: Recursive scan of {972ce4c6-7e08-4474-a285-3208198ce6fd}
+15:18:10.480 [INFO] 1452172690480	addons.xpi	DEBUG	New add-on fiddlerhook@fiddler2.com in winreg-app-global
+15:18:10.480 [INFO] 1452172690480	addons.xpi	DEBUG	getModTime: Recursive scan of fiddlerhook@fiddler2.com
+15:18:10.482 [INFO] 1452172690482	addons.xpi	DEBUG	getInstallState changed: true, state: {"app-profile":{"fxdriver@googlecode.com":{"d":"C:\\Users\\saffia.NEWMEDIALABS\\AppData\\Local\\Temp\\anonymous.e8f94bbd42d2474aadc8e8504b0e159c.webdriver-profile\\extensions\\fxdriver@googlecode.com","st":1452172690322,"mt":1447849608000}},"app-global":{"{972ce4c6-7e08-4474-a285-3208198ce6fd}":{"d":"C:\\Program Files (x86)\\Mozilla Firefox\\browser\\extensions\\{972ce4c6-7e08-4474-a285-3208198ce6fd}","st":1450779332427,"mt":1450779332283}},"winreg-app-global":{"fiddlerhook@fiddler2.com":{"d":"C:\\Program Files (x86)\\Fiddler2\\FiddlerHook","st":1445843684079,"mt":1443213230000}}}
+15:18:10.482 [INFO] 
+15:18:10.487 [INFO] 1452172690487	addons.xpi-utils	DEBUG	Opening XPI database C:\Users\saffia.NEWMEDIALABS\AppData\Local\Temp\anonymous.e8f94bbd42d2474aadc8e8504b0e159c.webdriver-profile\extensions.json
+15:18:10.487 [INFO] 
+15:18:10.488 [INFO] 1452172690488	addons.xpi-utils	DEBUG	New add-on fxdriver@googlecode.com installed in app-profile
+15:18:10.488 [INFO] 
+15:18:10.491 [INFO] *** Blocklist::_loadBlocklistFromFile: blocklist is disabled
+15:18:10.491 [INFO] 
+15:18:10.513 [INFO] 1452172690514	DeferredSave.extensions.json	DEBUG	Save changes
+15:18:10.514 [INFO] 1452172690515	addons.xpi-utils	DEBUG	New add-on {972ce4c6-7e08-4474-a285-3208198ce6fd} installed in app-global
+15:18:10.514 [INFO] 
+15:18:10.516 [INFO] 1452172690517	DeferredSave.extensions.json	DEBUG	Starting timer
+15:18:10.516 [INFO] 1452172690517	DeferredSave.extensions.json	DEBUG	Save changes
+15:18:10.516 [INFO] 1452172690517	addons.xpi-utils	DEBUG	New add-on fiddlerhook@fiddler2.com installed in winreg-app-global
+15:18:10.519 [INFO] 1452172690520	addons.xpi-utils	WARN	Disabling foreign installed add-on fiddlerhook@fiddler2.com in winreg-app-global
+15:18:10.520 [INFO] 
+15:18:10.520 [INFO] 1452172690520	DeferredSave.extensions.json	DEBUG	Save changes
+15:18:10.520 [INFO] 1452172690520	addons.xpi-utils	INFO	Hiding the updated system add-ons.
+15:18:10.520 [INFO] 
+15:18:10.520 [INFO] 1452172690521	addons.manager	DEBUG	Registering startup change 'installed' for fxdriver@googlecode.com
+15:18:10.520 [INFO] 1452172690521	addons.xpi-utils	DEBUG	Make addon app-profile:fxdriver@googlecode.com visible
+15:18:10.520 [INFO] 1452172690521	DeferredSave.extensions.json	DEBUG	Save changes
+15:18:10.520 [INFO] 1452172690521	addons.xpi-utils	DEBUG	Make addon app-global:{972ce4c6-7e08-4474-a285-3208198ce6fd} visible
+15:18:10.521 [INFO] 1452172690521	DeferredSave.extensions.json	DEBUG	Save changes
+15:18:10.521 [INFO] 1452172690521	addons.manager	DEBUG	Registering startup change 'installed' for fiddlerhook@fiddler2.com
+15:18:10.521 [INFO] 
+15:18:10.521 [INFO] 1452172690522	addons.xpi-utils	DEBUG	Make addon winreg-app-global:fiddlerhook@fiddler2.com visible
+15:18:10.521 [INFO] 
+15:18:10.521 [INFO] 1452172690522	DeferredSave.extensions.json	DEBUG	Save changes
+15:18:10.521 [INFO] 1452172690522	addons.xpi	DEBUG	Updating XPIState for {"id":"fxdriver@googlecode.com","syncGUID":"G9S16X6aAC3s","location":"app-profile","version":"2.48.0","type":"extension","internalName":null,"updateURL":null,"updateKey":null,"optionsURL":null,"optionsType":null,"aboutURL":null,"iconURL":null,"icon64URL":null,"defaultLocale":{"name":"Firefox WebDriver","description":"WebDriver implementation for Firefox","creator":"Simon Stewart","homepageURL":null},"visible":true,"active":true,"userDisabled":false,"appDisabled":false,"descriptor":"C:\\Users\\saffia.NEWMEDIALABS\\AppData\\Local\\Temp\\anonymous.e8f94bbd42d2474aadc8e8504b0e159c.webdriver-profile\\extensions\\fxdriver@googlecode.com","installDate":1452172690322,"updateDate":1452172690322,"applyBackgroundUpdates":1,"bootstrap":false,"size":3222620,"sourceURI":null,"releaseNotesURI":null,"softDisabled":false,"foreignInstall":true,"hasBinaryComponents":true,"strictCompatibility":false,"locales":[],"targetApplications":[{"id":"{ec8030f7-c20a-464f-9b0e-13a3a9e97384}","minVersion":"3.0","maxVersion":"45.0"}],"targetPlatforms":[{"os":"Darwin","abi":null},{"os":"SunOS","abi":null},{"os":"FreeBSD","abi":null},{"os":"OpenBSD","abi":null},{"os":"WINNT","abi":"x86-msvc"},{"os":"Linux","abi":null}],"multiprocessCompatible":false,"signedState":0}
+15:18:10.522 [INFO] 1452172690522	addons.xpi	DEBUG	getModTime: Recursive scan of fxdriver@googlecode.com
+15:18:10.523 [INFO] 1452172690524	addons.xpi	DEBUG	Updating XPIState for {"id":"{972ce4c6-7e08-4474-a285-3208198ce6fd}","syncGUID":"oxzmlPX-HO3O","location":"app-global","version":"43.0.1","type":"theme","internalName":"classic/1.0","updateURL":null,"updateKey":null,"optionsURL":null,"optionsType":null,"aboutURL":null,"iconURL":null,"icon64URL":null,"defaultLocale":{"name":"Default","description":"The default theme.","creator":"Mozilla","homepageURL":null,"contributors":["Mozilla Contributors"]},"visible":true,"active":true,"userDisabled":false,"appDisabled":false,"descriptor":"C:\\Program Files (x86)\\Mozilla Firefox\\browser\\extensions\\{972ce4c6-7e08-4474-a285-3208198ce6fd}","installDate":1450779332427,"updateDate":1450779332427,"applyBackgroundUpdates":1,"skinnable":true,"size":24172,"sourceURI":null,"releaseNotesURI":null,"softDisabled":false,"foreignInstall":false,"hasBinaryComponents":false,"strictCompatibility":true,"locales":[],"targetApplications":[{"id":"{ec8030f7-c20a-464f-9b0e-13a3a9e97384}","minVersion":"43.0.1","maxVersion":"43.0.1"}],"targetPlatforms":[]}
+15:18:10.524 [INFO] 
+1452172690524	addons.xpi	DEBUG	getModTime: Recursive scan of {972ce4c6-7e08-4474-a285-3208198ce6fd}
+15:18:10.524 [INFO] 1452172690525	addons.xpi	DEBUG	Updating XPIState for {"id":"fiddlerhook@fiddler2.com","syncGUID":"MNasFtgGJut_","location":"winreg-app-global","version":"2.6.0.4","type":"extension","internalName":null,"updateURL":null,"updateKey":null,"optionsURL":null,"optionsType":null,"aboutURL":"chrome://fiddlerhook/content/about.xul","iconURL":"chrome://fiddlerhook/content/fiddlerhook.png","icon64URL":null,"defaultLocale":{"name":"FiddlerHook","description":"Integrate Fiddler into Firefox","creator":"Telerik","homepageURL":"http://fiddler2.com/r/?FIDDLERHOOKHELP"},"visible":true,"active":false,"userDisabled":true,"appDisabled":false,"descriptor":"C:\\Program Files (x86)\\Fiddler2\\FiddlerHook","installDate":1445843684079,"updateDate":1445843684079,"applyBackgroundUpdates":1,"bootstrap":false,"size":33900,"sourceURI":null,"releaseNotesURI":null,"softDisabled":false,"foreignInstall":true,"hasBinaryComponents":false,"strictCompatibility":false,"locales":[],"targetApplications":[{"id":"{ec8030f7-c20a-464f-9b0e-13a3a9e97384}","minVersion":"4.0","maxVersion":"42.*"}],"targetPlatforms":[],"multiprocessCompatible":false,"signedState":0}
+15:18:10.524 [INFO] 1452172690525	DeferredSave.extensions.json	DEBUG	Save changes
+15:18:10.524 [INFO] 1452172690525	addons.xpi	DEBUG	Updating database with changes to installed add-ons
+15:18:10.524 [INFO] 
+1452172690525	addons.xpi-utils	DEBUG	Updating add-on states
+15:18:10.525 [INFO] 1452172690525	addons.xpi-utils	DEBUG	Writing add-ons list
+15:18:10.533 [INFO] 1452172690534	addons.manager	DEBUG	Registering shutdown blocker for XPIProvider
+15:18:10.533 [INFO] 1452172690534	addons.manager	DEBUG	Provider finished startup: XPIProvider
+15:18:10.533 [INFO] 1452172690534	addons.manager	DEBUG	Starting provider: LightweightThemeManager
+15:18:10.533 [INFO] 1452172690534	addons.manager	DEBUG	Registering shutdown blocker for LightweightThemeManager
+15:18:10.533 [INFO] 1452172690534	addons.manager	DEBUG	Provider finished startup: LightweightThemeManager
+15:18:10.534 [INFO] 1452172690534	addons.manager	DEBUG	Starting provider: GMPProvider
+15:18:10.537 [INFO] 1452172690538	addons.manager	DEBUG	Registering shutdown blocker for GMPProvider
+15:18:10.537 [INFO] 1452172690538	addons.manager	DEBUG	Provider finished startup: GMPProvider
+15:18:10.537 [INFO] 1452172690538	addons.manager	DEBUG	Starting provider: PluginProvider
+15:18:10.537 [INFO] 1452172690538	addons.manager	DEBUG	Registering shutdown blocker for PluginProvider
+15:18:10.537 [INFO] 
+15:18:10.537 [INFO] 1452172690538	addons.manager	DEBUG	Provider finished startup: PluginProvider
+15:18:10.537 [INFO] 
+15:18:10.537 [INFO] 1452172690538	addons.manager	DEBUG	Completed startup sequence
+15:18:10.754 [INFO] 1452172690755	addons.manager	DEBUG	Starting provider: <unnamed-provider>
+15:18:10.754 [INFO] 
+1452172690755	addons.manager	DEBUG	Registering shutdown blocker for <unnamed-provider>
+15:18:10.754 [INFO] 1452172690755	addons.manager	DEBUG	Provider finished startup: <unnamed-provider>
+15:18:10.754 [INFO] 
+15:18:10.843 [INFO] 1452172690844	DeferredSave.extensions.json	DEBUG	Starting write
+15:18:11.011 [INFO] 1452172691011	addons.repository	DEBUG	No addons.json found.
+15:18:11.012 [INFO] 1452172691012	DeferredSave.addons.json	DEBUG	Save changes
+15:18:11.013 [INFO] 1452172691013	DeferredSave.addons.json	DEBUG	Starting timer
+15:18:11.022 [INFO] 1452172691022	addons.manager	DEBUG	Starting provider: PreviousExperimentProvider
+15:18:11.022 [INFO] 
+1452172691022	addons.manager	DEBUG	Registering shutdown blocker for PreviousExperimentProvider
+15:18:11.022 [INFO] 1452172691022	addons.manager	DEBUG	Provider finished startup: PreviousExperimentProvider
+15:18:11.022 [INFO] 
+15:18:11.023 [INFO] 1452172691023	DeferredSave.extensions.json	DEBUG	Write succeeded
+15:18:11.023 [INFO] 
+15:18:11.024 [INFO] 1452172691024	addons.xpi-utils	DEBUG	XPI Database saved, setting schema version preference to 17
+15:18:11.024 [INFO] 
+15:18:11.080 [INFO] 1452172691080	DeferredSave.addons.json	DEBUG	Starting write
+15:18:11.084 [INFO] 1452172691084	DeferredSave.addons.json	DEBUG	Write succeeded
+15:18:11.084 [INFO] 
+15:18:13.444 [INFO] Executing specification: Book Listing
+15:18:13.449 [INFO] Executing scenario: Search for a book (exact match)
+15:18:13.452 [DEBUG] Executing Step: * Go to View Book Listing page
+15:18:13.718 [DEBUG] Executing Step: * Search for book with title "Code Complete 2"
+15:18:13.985 [DEBUG] Executing Step: * The book "Code Complete 2" is listed
+15:18:14.222 [DEBUG] Plugin [Html Report] with pid [9456] has exited
+15:18:14.322 [INFO] Specifications: 	1 executed, 1 passed, 0 failed, 0 skipped
+15:18:14.322 [INFO] Scenarios: 	1 executed, 1 passed, 0 failed, 0 skipped
+15:18:14.322 [INFO] Total time taken: 4.507s
+15:18:16.171 [INFO] 1452172696171	addons.manager	DEBUG	Application has been upgraded
+15:18:16.171 [INFO] 
+15:18:16.179 [INFO] 1452172696179	addons.manager	DEBUG	Loaded provider scope for resource://gre/modules/addons/XPIProvider.jsm: ["XPIProvider"]
+15:18:16.180 [INFO] 1452172696180	addons.manager	DEBUG	Loaded provider scope for resource://gre/modules/LightweightThemeManager.jsm: ["LightweightThemeManager"]
+15:18:16.180 [INFO] 
+15:18:16.182 [INFO] 1452172696182	addons.manager	DEBUG	Loaded provider scope for resource://gre/modules/addons/GMPProvider.jsm
+15:18:16.182 [INFO] 
+15:18:16.182 [INFO] 1452172696182	addons.manager	DEBUG	Loaded provider scope for resource://gre/modules/addons/PluginProvider.jsm
+15:18:16.183 [INFO] 1452172696183	addons.manager	DEBUG	Starting provider: XPIProvider
+15:18:16.183 [INFO] 1452172696183	addons.xpi	DEBUG	startup
+15:18:16.183 [INFO] 
+15:18:16.183 [INFO] 1452172696183	addons.xpi	INFO	Mapping fxdriver@googlecode.com to C:\Users\saffia.NEWMEDIALABS\AppData\Local\Temp\anonymous.f21057b12e14455fb0efb9f8d818e100.webdriver-profile\extensions\fxdriver@googlecode.com
+15:18:16.183 [INFO] 
+15:18:16.184 [INFO] 1452172696184	addons.xpi	INFO	SystemAddonInstallLocation directory is missing
+15:18:16.184 [INFO] 1452172696184	addons.xpi	INFO	Mapping {972ce4c6-7e08-4474-a285-3208198ce6fd} to C:\Program Files (x86)\Mozilla Firefox\browser\extensions\{972ce4c6-7e08-4474-a285-3208198ce6fd}
+15:18:16.184 [INFO] 
+15:18:16.185 [INFO] 1452172696185	addons.xpi	DEBUG	Skipping unavailable install location app-system-share
+15:18:16.185 [INFO] 1452172696185	addons.xpi	DEBUG	Skipping unavailable install location app-system-local
+15:18:16.185 [INFO] 1452172696185	addons.xpi	INFO	Mapping fiddlerhook@fiddler2.com to C:\Program Files (x86)\Fiddler2\FiddlerHook
+15:18:16.185 [INFO] 1452172696185	addons.xpi	DEBUG	checkForChanges
+15:18:16.185 [INFO] 
+15:18:16.185 [INFO] 1452172696185	addons.xpi	DEBUG	Loaded add-on state from prefs: {}
+15:18:16.186 [INFO] 1452172696186	addons.xpi	DEBUG	New add-on fxdriver@googlecode.com in app-profile
+15:18:16.186 [INFO] 
+15:18:16.186 [INFO] 1452172696186	addons.xpi	DEBUG	getModTime: Recursive scan of fxdriver@googlecode.com
+15:18:16.186 [INFO] 
+15:18:16.189 [INFO] 1452172696189	addons.xpi	DEBUG	New add-on {972ce4c6-7e08-4474-a285-3208198ce6fd} in app-global
+15:18:16.189 [INFO] 
+15:18:16.189 [INFO] 1452172696189	addons.xpi	DEBUG	getModTime: Recursive scan of {972ce4c6-7e08-4474-a285-3208198ce6fd}
+15:18:16.190 [INFO] 1452172696190	addons.xpi	DEBUG	New add-on fiddlerhook@fiddler2.com in winreg-app-global
+15:18:16.190 [INFO] 1452172696190	addons.xpi	DEBUG	getModTime: Recursive scan of fiddlerhook@fiddler2.com
+15:18:16.192 [INFO] 1452172696192	addons.xpi	DEBUG	getInstallState changed: true, state: {"app-profile":{"fxdriver@googlecode.com":{"d":"C:\\Users\\saffia.NEWMEDIALABS\\AppData\\Local\\Temp\\anonymous.f21057b12e14455fb0efb9f8d818e100.webdriver-profile\\extensions\\fxdriver@googlecode.com","st":1452172696037,"mt":1447849608000}},"app-global":{"{972ce4c6-7e08-4474-a285-3208198ce6fd}":{"d":"C:\\Program Files (x86)\\Mozilla Firefox\\browser\\extensions\\{972ce4c6-7e08-4474-a285-3208198ce6fd}","st":1450779332427,"mt":1450779332283}},"winreg-app-global":{"fiddlerhook@fiddler2.com":{"d":"C:\\Program Files (x86)\\Fiddler2\\FiddlerHook","st":1445843684079,"mt":1443213230000}}}
+15:18:16.192 [INFO] 
+15:18:16.196 [INFO] 1452172696197	addons.xpi-utils	DEBUG	Opening XPI database C:\Users\saffia.NEWMEDIALABS\AppData\Local\Temp\anonymous.f21057b12e14455fb0efb9f8d818e100.webdriver-profile\extensions.json
+15:18:16.196 [INFO] 
+15:18:16.197 [INFO] 1452172696197	addons.xpi-utils	DEBUG	New add-on fxdriver@googlecode.com installed in app-profile
+15:18:16.197 [INFO] 
+15:18:16.201 [INFO] *** Blocklist::_loadBlocklistFromFile: blocklist is disabled
+15:18:16.201 [INFO] 
+15:18:16.221 [INFO] 1452172696222	DeferredSave.extensions.json	DEBUG	Save changes
+15:18:16.222 [INFO] 1452172696222	addons.xpi-utils	DEBUG	New add-on {972ce4c6-7e08-4474-a285-3208198ce6fd} installed in app-global
+15:18:16.222 [INFO] 
+15:18:16.224 [INFO] 1452172696224	DeferredSave.extensions.json	DEBUG	Starting timer
+15:18:16.225 [INFO] 1452172696225	DeferredSave.extensions.json	DEBUG	Save changes
+15:18:16.225 [INFO] 1452172696225	addons.xpi-utils	DEBUG	New add-on fiddlerhook@fiddler2.com installed in winreg-app-global
+15:18:16.228 [INFO] 1452172696228	addons.xpi-utils	WARN	Disabling foreign installed add-on fiddlerhook@fiddler2.com in winreg-app-global
+15:18:16.228 [INFO] 
+15:18:16.228 [INFO] 1452172696228	DeferredSave.extensions.json	DEBUG	Save changes
+15:18:16.228 [INFO] 1452172696228	addons.xpi-utils	INFO	Hiding the updated system add-ons.
+15:18:16.228 [INFO] 
+15:18:16.228 [INFO] 1452172696229	addons.manager	DEBUG	Registering startup change 'installed' for fxdriver@googlecode.com
+15:18:16.228 [INFO] 1452172696229	addons.xpi-utils	DEBUG	Make addon app-profile:fxdriver@googlecode.com visible
+15:18:16.228 [INFO] 1452172696229	DeferredSave.extensions.json	DEBUG	Save changes
+15:18:16.229 [INFO] 1452172696229	addons.xpi-utils	DEBUG	Make addon app-global:{972ce4c6-7e08-4474-a285-3208198ce6fd} visible
+15:18:16.229 [INFO] 1452172696229	DeferredSave.extensions.json	DEBUG	Save changes
+15:18:16.229 [INFO] 1452172696229	addons.manager	DEBUG	Registering startup change 'installed' for fiddlerhook@fiddler2.com
+15:18:16.229 [INFO] 
+15:18:16.229 [INFO] 1452172696229	addons.xpi-utils	DEBUG	Make addon winreg-app-global:fiddlerhook@fiddler2.com visible
+15:18:16.229 [INFO] 
+15:18:16.229 [INFO] 1452172696229	DeferredSave.extensions.json	DEBUG	Save changes
+1452172696229	addons.xpi	DEBUG	Updating XPIState for {"id":"fxdriver@googlecode.com","syncGUID":"pWeEXr0DU_iA","location":"app-profile","version":"2.48.0","type":"extension","internalName":null,"updateURL":null,"updateKey":null,"optionsURL":null,"optionsType":null,"aboutURL":null,"iconURL":null,"icon64URL":null,"defaultLocale":{"name":"Firefox WebDriver","description":"WebDriver implementation for Firefox","creator":"Simon Stewart","homepageURL":null},"visible":true,"active":true,"userDisabled":false,"appDisabled":false,"descriptor":"C:\\Users\\saffia.NEWMEDIALABS\\AppData\\Local\\Temp\\anonymous.f21057b12e14455fb0efb9f8d818e100.webdriver-profile\\extensions\\fxdriver@googlecode.com","installDate":1452172696037,"updateDate":1452172696037,"applyBackgroundUpdates":1,"bootstrap":false,"size":3222620,"sourceURI":null,"releaseNotesURI":null,"softDisabled":false,"foreignInstall":true,"hasBinaryComponents":true,"strictCompatibility":false,"locales":[],"targetApplications":[{"id":"{ec8030f7-c20a-464f-9b0e-13a3a9e97384}","minVersion":"3.0","maxVersion":"45.0"}],"targetPlatforms":[{"os":"Darwin","abi":null},{"os":"SunOS","abi":null},{"os":"FreeBSD","abi":null},{"os":"OpenBSD","abi":null},{"os":"WINNT","abi":"x86-msvc"},{"os":"Linux","abi":null}],"multiprocessCompatible":false,"signedState":0}
+1452172696230	addons.xpi	DEBUG	getModTime: Recursive scan of fxdriver@googlecode.com
+15:18:16.232 [INFO] 1452172696232	addons.xpi	DEBUG	Updating XPIState for {"id":"{972ce4c6-7e08-4474-a285-3208198ce6fd}","syncGUID":"MNjBqpEpDDxS","location":"app-global","version":"43.0.1","type":"theme","internalName":"classic/1.0","updateURL":null,"updateKey":null,"optionsURL":null,"optionsType":null,"aboutURL":null,"iconURL":null,"icon64URL":null,"defaultLocale":{"name":"Default","description":"The default theme.","creator":"Mozilla","homepageURL":null,"contributors":["Mozilla Contributors"]},"visible":true,"active":true,"userDisabled":false,"appDisabled":false,"descriptor":"C:\\Program Files (x86)\\Mozilla Firefox\\browser\\extensions\\{972ce4c6-7e08-4474-a285-3208198ce6fd}","installDate":1450779332427,"updateDate":1450779332427,"applyBackgroundUpdates":1,"skinnable":true,"size":24172,"sourceURI":null,"releaseNotesURI":null,"softDisabled":false,"foreignInstall":false,"hasBinaryComponents":false,"strictCompatibility":true,"locales":[],"targetApplications":[{"id":"{ec8030f7-c20a-464f-9b0e-13a3a9e97384}","minVersion":"43.0.1","maxVersion":"43.0.1"}],"targetPlatforms":[]}
+15:18:16.232 [INFO] 
+1452172696232	addons.xpi	DEBUG	getModTime: Recursive scan of {972ce4c6-7e08-4474-a285-3208198ce6fd}
+15:18:16.232 [INFO] 1452172696232	addons.xpi	DEBUG	Updating XPIState for {"id":"fiddlerhook@fiddler2.com","syncGUID":"zMR3QhHg52A7","location":"winreg-app-global","version":"2.6.0.4","type":"extension","internalName":null,"updateURL":null,"updateKey":null,"optionsURL":null,"optionsType":null,"aboutURL":"chrome://fiddlerhook/content/about.xul","iconURL":"chrome://fiddlerhook/content/fiddlerhook.png","icon64URL":null,"defaultLocale":{"name":"FiddlerHook","description":"Integrate Fiddler into Firefox","creator":"Telerik","homepageURL":"http://fiddler2.com/r/?FIDDLERHOOKHELP"},"visible":true,"active":false,"userDisabled":true,"appDisabled":false,"descriptor":"C:\\Program Files (x86)\\Fiddler2\\FiddlerHook","installDate":1445843684079,"updateDate":1445843684079,"applyBackgroundUpdates":1,"bootstrap":false,"size":33900,"sourceURI":null,"releaseNotesURI":null,"softDisabled":false,"foreignInstall":true,"hasBinaryComponents":false,"strictCompatibility":false,"locales":[],"targetApplications":[{"id":"{ec8030f7-c20a-464f-9b0e-13a3a9e97384}","minVersion":"4.0","maxVersion":"42.*"}],"targetPlatforms":[],"multiprocessCompatible":false,"signedState":0}
+15:18:16.232 [INFO] 1452172696233	DeferredSave.extensions.json	DEBUG	Save changes
+15:18:16.232 [INFO] 1452172696233	addons.xpi	DEBUG	Updating database with changes to installed add-ons
+15:18:16.232 [INFO] 
+1452172696233	addons.xpi-utils	DEBUG	Updating add-on states
+15:18:16.233 [INFO] 1452172696233	addons.xpi-utils	DEBUG	Writing add-ons list
+15:18:16.241 [INFO] 1452172696242	addons.manager	DEBUG	Registering shutdown blocker for XPIProvider
+15:18:16.241 [INFO] 1452172696242	addons.manager	DEBUG	Provider finished startup: XPIProvider
+15:18:16.241 [INFO] 1452172696242	addons.manager	DEBUG	Starting provider: LightweightThemeManager
+15:18:16.242 [INFO] 1452172696242	addons.manager	DEBUG	Registering shutdown blocker for LightweightThemeManager
+15:18:16.242 [INFO] 1452172696242	addons.manager	DEBUG	Provider finished startup: LightweightThemeManager
+15:18:16.242 [INFO] 1452172696242	addons.manager	DEBUG	Starting provider: GMPProvider
+15:18:16.245 [INFO] 1452172696246	addons.manager	DEBUG	Registering shutdown blocker for GMPProvider
+15:18:16.245 [INFO] 1452172696246	addons.manager	DEBUG	Provider finished startup: GMPProvider
+15:18:16.245 [INFO] 1452172696246	addons.manager	DEBUG	Starting provider: PluginProvider
+15:18:16.245 [INFO] 
+15:18:16.246 [INFO] 1452172696246	addons.manager	DEBUG	Registering shutdown blocker for PluginProvider
+15:18:16.246 [INFO] 
+15:18:16.246 [INFO] 1452172696246	addons.manager	DEBUG	Provider finished startup: PluginProvider
+15:18:16.246 [INFO] 
+15:18:16.246 [INFO] 1452172696246	addons.manager	DEBUG	Completed startup sequence
+15:18:16.434 [INFO] 1452172696434	addons.manager	DEBUG	Starting provider: <unnamed-provider>
+15:18:16.434 [INFO] 
+1452172696434	addons.manager	DEBUG	Registering shutdown blocker for <unnamed-provider>
+15:18:16.434 [INFO] 1452172696434	addons.manager	DEBUG	Provider finished startup: <unnamed-provider>
+15:18:16.434 [INFO] 
+15:18:16.514 [INFO] 1452172696515	DeferredSave.extensions.json	DEBUG	Starting write
+15:18:16.645 [INFO] 1452172696646	addons.repository	DEBUG	No addons.json found.
+15:18:16.645 [INFO] 1452172696646	DeferredSave.addons.json	DEBUG	Save changes
+15:18:16.646 [INFO] 1452172696647	DeferredSave.addons.json	DEBUG	Starting timer
+15:18:16.655 [INFO] 1452172696656	addons.manager	DEBUG	Starting provider: PreviousExperimentProvider
+15:18:16.655 [INFO] 
+1452172696656	addons.manager	DEBUG	Registering shutdown blocker for PreviousExperimentProvider
+15:18:16.655 [INFO] 1452172696656	addons.manager	DEBUG	Provider finished startup: PreviousExperimentProvider
+15:18:16.655 [INFO] 
+15:18:16.661 [INFO] 1452172696662	DeferredSave.extensions.json	DEBUG	Write succeeded
+15:18:16.661 [INFO] 
+15:18:16.661 [INFO] 1452172696662	addons.xpi-utils	DEBUG	XPI Database saved, setting schema version preference to 17
+15:18:16.661 [INFO] 
+15:18:16.698 [INFO] 1452172696699	DeferredSave.addons.json	DEBUG	Starting write
+15:18:16.728 [INFO] 1452172696729	DeferredSave.addons.json	DEBUG	Write succeeded
+15:18:16.728 [INFO] 
+15:18:19.192 [INFO] Executing specification: Book Listing
+15:18:19.196 [INFO] Executing scenario: Search for a book (containing letters)
+15:18:19.199 [DEBUG] Executing Step: * Go to View Book Listing page
+15:18:19.440 [DEBUG] Executing Step: * Search for book with title "n"
+15:18:19.691 [DEBUG] Executing Step: * The book "The Mythical Man Month" is listed
+15:18:19.869 [DEBUG] Executing Step: * The book "The Design of Everyday Things" is listed
+15:18:20.182 [DEBUG] Plugin [Html Report] with pid [10844] has exited
+15:18:20.283 [INFO] Specifications: 	1 executed, 1 passed, 0 failed, 0 skipped
+15:18:20.283 [INFO] Scenarios: 	1 executed, 1 passed, 0 failed, 0 skipped
+15:18:20.283 [INFO] Total time taken: 4.599s
+15:18:22.130 [INFO] 1452172702130	addons.manager	DEBUG	Application has been upgraded
+15:18:22.130 [INFO] 
+15:18:22.138 [INFO] 1452172702138	addons.manager	DEBUG	Loaded provider scope for resource://gre/modules/addons/XPIProvider.jsm: ["XPIProvider"]
+15:18:22.139 [INFO] 1452172702139	addons.manager	DEBUG	Loaded provider scope for resource://gre/modules/LightweightThemeManager.jsm: ["LightweightThemeManager"]
+15:18:22.139 [INFO] 
+15:18:22.140 [INFO] 1452172702141	addons.manager	DEBUG	Loaded provider scope for resource://gre/modules/addons/GMPProvider.jsm
+15:18:22.141 [INFO] 
+15:18:22.141 [INFO] 1452172702142	addons.manager	DEBUG	Loaded provider scope for resource://gre/modules/addons/PluginProvider.jsm
+15:18:22.142 [INFO] 1452172702142	addons.manager	DEBUG	Starting provider: XPIProvider
+15:18:22.142 [INFO] 1452172702142	addons.xpi	DEBUG	startup
+15:18:22.142 [INFO] 
+15:18:22.142 [INFO] 1452172702143	addons.xpi	INFO	Mapping fxdriver@googlecode.com to C:\Users\saffia.NEWMEDIALABS\AppData\Local\Temp\anonymous.b35cac7ed2b34d25ba5c905ef13633a5.webdriver-profile\extensions\fxdriver@googlecode.com
+15:18:22.142 [INFO] 
+15:18:22.143 [INFO] 1452172702143	addons.xpi	INFO	SystemAddonInstallLocation directory is missing
+15:18:22.143 [INFO] 1452172702144	addons.xpi	INFO	Mapping {972ce4c6-7e08-4474-a285-3208198ce6fd} to C:\Program Files (x86)\Mozilla Firefox\browser\extensions\{972ce4c6-7e08-4474-a285-3208198ce6fd}
+15:18:22.143 [INFO] 
+15:18:22.144 [INFO] 1452172702144	addons.xpi	DEBUG	Skipping unavailable install location app-system-share
+15:18:22.144 [INFO] 1452172702144	addons.xpi	DEBUG	Skipping unavailable install location app-system-local
+15:18:22.144 [INFO] 1452172702144	addons.xpi	INFO	Mapping fiddlerhook@fiddler2.com to C:\Program Files (x86)\Fiddler2\FiddlerHook
+15:18:22.144 [INFO] 1452172702145	addons.xpi	DEBUG	checkForChanges
+15:18:22.144 [INFO] 
+15:18:22.144 [INFO] 1452172702145	addons.xpi	DEBUG	Loaded add-on state from prefs: {}
+15:18:22.145 [INFO] 1452172702145	addons.xpi	DEBUG	New add-on fxdriver@googlecode.com in app-profile
+15:18:22.145 [INFO] 
+15:18:22.145 [INFO] 1452172702145	addons.xpi	DEBUG	getModTime: Recursive scan of fxdriver@googlecode.com
+15:18:22.145 [INFO] 
+15:18:22.148 [INFO] 1452172702149	addons.xpi	DEBUG	New add-on {972ce4c6-7e08-4474-a285-3208198ce6fd} in app-global
+15:18:22.148 [INFO] 
+15:18:22.148 [INFO] 1452172702149	addons.xpi	DEBUG	getModTime: Recursive scan of {972ce4c6-7e08-4474-a285-3208198ce6fd}
+15:18:22.149 [INFO] 1452172702149	addons.xpi	DEBUG	New add-on fiddlerhook@fiddler2.com in winreg-app-global
+15:18:22.149 [INFO] 1452172702149	addons.xpi	DEBUG	getModTime: Recursive scan of fiddlerhook@fiddler2.com
+15:18:22.151 [INFO] 1452172702151	addons.xpi	DEBUG	getInstallState changed: true, state: {"app-profile":{"fxdriver@googlecode.com":{"d":"C:\\Users\\saffia.NEWMEDIALABS\\AppData\\Local\\Temp\\anonymous.b35cac7ed2b34d25ba5c905ef13633a5.webdriver-profile\\extensions\\fxdriver@googlecode.com","st":1452172701996,"mt":1447849608000}},"app-global":{"{972ce4c6-7e08-4474-a285-3208198ce6fd}":{"d":"C:\\Program Files (x86)\\Mozilla Firefox\\browser\\extensions\\{972ce4c6-7e08-4474-a285-3208198ce6fd}","st":1450779332427,"mt":1450779332283}},"winreg-app-global":{"fiddlerhook@fiddler2.com":{"d":"C:\\Program Files (x86)\\Fiddler2\\FiddlerHook","st":1445843684079,"mt":1443213230000}}}
+15:18:22.151 [INFO] 
+15:18:22.155 [INFO] 1452172702156	addons.xpi-utils	DEBUG	Opening XPI database C:\Users\saffia.NEWMEDIALABS\AppData\Local\Temp\anonymous.b35cac7ed2b34d25ba5c905ef13633a5.webdriver-profile\extensions.json
+15:18:22.155 [INFO] 
+15:18:22.156 [INFO] 1452172702157	addons.xpi-utils	DEBUG	New add-on fxdriver@googlecode.com installed in app-profile
+15:18:22.156 [INFO] 
+15:18:22.159 [INFO] *** Blocklist::_loadBlocklistFromFile: blocklist is disabled
+15:18:22.159 [INFO] 
+15:18:22.183 [INFO] 1452172702183	DeferredSave.extensions.json	DEBUG	Save changes
+15:18:22.183 [INFO] 1452172702184	addons.xpi-utils	DEBUG	New add-on {972ce4c6-7e08-4474-a285-3208198ce6fd} installed in app-global
+15:18:22.183 [INFO] 
+15:18:22.185 [INFO] 1452172702186	DeferredSave.extensions.json	DEBUG	Starting timer
+15:18:22.186 [INFO] 1452172702186	DeferredSave.extensions.json	DEBUG	Save changes
+15:18:22.186 [INFO] 1452172702186	addons.xpi-utils	DEBUG	New add-on fiddlerhook@fiddler2.com installed in winreg-app-global
+15:18:22.190 [INFO] 1452172702190	addons.xpi-utils	WARN	Disabling foreign installed add-on fiddlerhook@fiddler2.com in winreg-app-global
+15:18:22.190 [INFO] 
+15:18:22.190 [INFO] 1452172702190	DeferredSave.extensions.json	DEBUG	Save changes
+15:18:22.190 [INFO] 1452172702190	addons.xpi-utils	INFO	Hiding the updated system add-ons.
+15:18:22.190 [INFO] 
+15:18:22.190 [INFO] 1452172702190	addons.manager	DEBUG	Registering startup change 'installed' for fxdriver@googlecode.com
+15:18:22.190 [INFO] 1452172702191	addons.xpi-utils	DEBUG	Make addon app-profile:fxdriver@googlecode.com visible
+15:18:22.190 [INFO] 1452172702191	DeferredSave.extensions.json	DEBUG	Save changes
+15:18:22.190 [INFO] 1452172702191	addons.xpi-utils	DEBUG	Make addon app-global:{972ce4c6-7e08-4474-a285-3208198ce6fd} visible
+15:18:22.191 [INFO] 1452172702191	DeferredSave.extensions.json	DEBUG	Save changes
+15:18:22.191 [INFO] 1452172702191	addons.manager	DEBUG	Registering startup change 'installed' for fiddlerhook@fiddler2.com
+15:18:22.191 [INFO] 1452172702191	addons.xpi-utils	DEBUG	Make addon winreg-app-global:fiddlerhook@fiddler2.com visible
+15:18:22.191 [INFO] 
+15:18:22.191 [INFO] 1452172702191	DeferredSave.extensions.json	DEBUG	Save changes
+15:18:22.191 [INFO] 1452172702191	addons.xpi	DEBUG	Updating XPIState for {"id":"fxdriver@googlecode.com","syncGUID":"YDYw7nJwIv_P","location":"app-profile","version":"2.48.0","type":"extension","internalName":null,"updateURL":null,"updateKey":null,"optionsURL":null,"optionsType":null,"aboutURL":null,"iconURL":null,"icon64URL":null,"defaultLocale":{"name":"Firefox WebDriver","description":"WebDriver implementation for Firefox","creator":"Simon Stewart","homepageURL":null},"visible":true,"active":true,"userDisabled":false,"appDisabled":false,"descriptor":"C:\\Users\\saffia.NEWMEDIALABS\\AppData\\Local\\Temp\\anonymous.b35cac7ed2b34d25ba5c905ef13633a5.webdriver-profile\\extensions\\fxdriver@googlecode.com","installDate":1452172701996,"updateDate":1452172701996,"applyBackgroundUpdates":1,"bootstrap":false,"size":3222620,"sourceURI":null,"releaseNotesURI":null,"softDisabled":false,"foreignInstall":true,"hasBinaryComponents":true,"strictCompatibility":false,"locales":[],"targetApplications":[{"id":"{ec8030f7-c20a-464f-9b0e-13a3a9e97384}","minVersion":"3.0","maxVersion":"45.0"}],"targetPlatforms":[{"os":"Darwin","abi":null},{"os":"SunOS","abi":null},{"os":"FreeBSD","abi":null},{"os":"OpenBSD","abi":null},{"os":"WINNT","abi":"x86-msvc"},{"os":"Linux","abi":null}],"multiprocessCompatible":false,"signedState":0}
+15:18:22.191 [INFO] 1452172702191	addons.xpi	DEBUG	getModTime: Recursive scan of fxdriver@googlecode.com
+15:18:22.193 [INFO] 1452172702194	addons.xpi	DEBUG	Updating XPIState for {"id":"{972ce4c6-7e08-4474-a285-3208198ce6fd}","syncGUID":"guBLFR-AokWW","location":"app-global","version":"43.0.1","type":"theme","internalName":"classic/1.0","updateURL":null,"updateKey":null,"optionsURL":null,"optionsType":null,"aboutURL":null,"iconURL":null,"icon64URL":null,"defaultLocale":{"name":"Default","description":"The default theme.","creator":"Mozilla","homepageURL":null,"contributors":["Mozilla Contributors"]},"visible":true,"active":true,"userDisabled":false,"appDisabled":false,"descriptor":"C:\\Program Files (x86)\\Mozilla Firefox\\browser\\extensions\\{972ce4c6-7e08-4474-a285-3208198ce6fd}","installDate":1450779332427,"updateDate":1450779332427,"applyBackgroundUpdates":1,"skinnable":true,"size":24172,"sourceURI":null,"releaseNotesURI":null,"softDisabled":false,"foreignInstall":false,"hasBinaryComponents":false,"strictCompatibility":true,"locales":[],"targetApplications":[{"id":"{ec8030f7-c20a-464f-9b0e-13a3a9e97384}","minVersion":"43.0.1","maxVersion":"43.0.1"}],"targetPlatforms":[]}
+15:18:22.193 [INFO] 
+1452172702194	addons.xpi	DEBUG	getModTime: Recursive scan of {972ce4c6-7e08-4474-a285-3208198ce6fd}
+15:18:22.194 [INFO] 1452172702194	addons.xpi	DEBUG	Updating XPIState for {"id":"fiddlerhook@fiddler2.com","syncGUID":"HxAZDjQ3B_sj","location":"winreg-app-global","version":"2.6.0.4","type":"extension","internalName":null,"updateURL":null,"updateKey":null,"optionsURL":null,"optionsType":null,"aboutURL":"chrome://fiddlerhook/content/about.xul","iconURL":"chrome://fiddlerhook/content/fiddlerhook.png","icon64URL":null,"defaultLocale":{"name":"FiddlerHook","description":"Integrate Fiddler into Firefox","creator":"Telerik","homepageURL":"http://fiddler2.com/r/?FIDDLERHOOKHELP"},"visible":true,"active":false,"userDisabled":true,"appDisabled":false,"descriptor":"C:\\Program Files (x86)\\Fiddler2\\FiddlerHook","installDate":1445843684079,"updateDate":1445843684079,"applyBackgroundUpdates":1,"bootstrap":false,"size":33900,"sourceURI":null,"releaseNotesURI":null,"softDisabled":false,"foreignInstall":true,"hasBinaryComponents":false,"strictCompatibility":false,"locales":[],"targetApplications":[{"id":"{ec8030f7-c20a-464f-9b0e-13a3a9e97384}","minVersion":"4.0","maxVersion":"42.*"}],"targetPlatforms":[],"multiprocessCompatible":false,"signedState":0}
+15:18:22.194 [INFO] 1452172702194	DeferredSave.extensions.json	DEBUG	Save changes
+15:18:22.194 [INFO] 1452172702194	addons.xpi	DEBUG	Updating database with changes to installed add-ons
+15:18:22.194 [INFO] 1452172702195	addons.xpi-utils	DEBUG	Updating add-on states
+15:18:22.195 [INFO] 1452172702195	addons.xpi-utils	DEBUG	Writing add-ons list
+15:18:22.203 [INFO] 1452172702203	addons.manager	DEBUG	Registering shutdown blocker for XPIProvider
+15:18:22.203 [INFO] 1452172702203	addons.manager	DEBUG	Provider finished startup: XPIProvider
+15:18:22.203 [INFO] 1452172702203	addons.manager	DEBUG	Starting provider: LightweightThemeManager
+15:18:22.203 [INFO] 1452172702203	addons.manager	DEBUG	Registering shutdown blocker for LightweightThemeManager
+15:18:22.203 [INFO] 1452172702204	addons.manager	DEBUG	Provider finished startup: LightweightThemeManager
+15:18:22.204 [INFO] 1452172702204	addons.manager	DEBUG	Starting provider: GMPProvider
+15:18:22.207 [INFO] 1452172702207	addons.manager	DEBUG	Registering shutdown blocker for GMPProvider
+15:18:22.207 [INFO] 1452172702207	addons.manager	DEBUG	Provider finished startup: GMPProvider
+15:18:22.207 [INFO] 1452172702207	addons.manager	DEBUG	Starting provider: PluginProvider
+15:18:22.207 [INFO] 1452172702207	addons.manager	DEBUG	Registering shutdown blocker for PluginProvider
+15:18:22.207 [INFO] 
+15:18:22.207 [INFO] 1452172702207	addons.manager	DEBUG	Provider finished startup: PluginProvider
+15:18:22.207 [INFO] 
+15:18:22.207 [INFO] 1452172702208	addons.manager	DEBUG	Completed startup sequence
+15:18:22.402 [INFO] 1452172702402	addons.manager	DEBUG	Starting provider: <unnamed-provider>
+15:18:22.402 [INFO] 
+1452172702402	addons.manager	DEBUG	Registering shutdown blocker for <unnamed-provider>
+15:18:22.402 [INFO] 1452172702403	addons.manager	DEBUG	Provider finished startup: <unnamed-provider>
+15:18:22.402 [INFO] 
+15:18:22.499 [INFO] 1452172702500	DeferredSave.extensions.json	DEBUG	Starting write
+15:18:22.641 [INFO] 1452172702642	addons.repository	DEBUG	No addons.json found.
+15:18:22.642 [INFO] 1452172702642	DeferredSave.addons.json	DEBUG	Save changes
+15:18:22.643 [INFO] 1452172702643	DeferredSave.addons.json	DEBUG	Starting timer
+15:18:22.651 [INFO] 1452172702652	addons.manager	DEBUG	Starting provider: PreviousExperimentProvider
+15:18:22.651 [INFO] 
+1452172702652	addons.manager	DEBUG	Registering shutdown blocker for PreviousExperimentProvider
+15:18:22.651 [INFO] 1452172702652	addons.manager	DEBUG	Provider finished startup: PreviousExperimentProvider
+15:18:22.651 [INFO] 
+15:18:22.657 [INFO] 1452172702657	DeferredSave.extensions.json	DEBUG	Write succeeded
+15:18:22.657 [INFO] 
+15:18:22.657 [INFO] 1452172702658	addons.xpi-utils	DEBUG	XPI Database saved, setting schema version preference to 17
+15:18:22.657 [INFO] 
+15:18:22.709 [INFO] 1452172702710	DeferredSave.addons.json	DEBUG	Starting write
+15:18:22.746 [INFO] 1452172702746	DeferredSave.addons.json	DEBUG	Write succeeded
+15:18:22.746 [INFO] 
+15:18:25.102 [INFO] Executing specification: Specification Heading
+15:18:25.108 [INFO] Executing scenario: First scenario
+15:18:25.111 [DEBUG] Executing Step: * A context step which gets executed before every scenario
+15:18:25.117 [INFO] This is a sample context
+15:18:25.121 [DEBUG] Executing Step: * Say "hello" to "gauge"
+15:18:25.125 [INFO] hello, gauge!
+15:18:25.245 [DEBUG] Plugin [Html Report] with pid [17696] has exited
+15:18:25.346 [INFO] Specifications: 	1 executed, 1 passed, 0 failed, 0 skipped
+15:18:25.346 [INFO] Scenarios: 	1 executed, 1 passed, 0 failed, 0 skipped
+15:18:25.346 [INFO] Total time taken: 3.711s
+15:18:27.241 [INFO] 1452172707242	addons.manager	DEBUG	Application has been upgraded
+15:18:27.241 [INFO] 
+15:18:27.250 [INFO] 1452172707250	addons.manager	DEBUG	Loaded provider scope for resource://gre/modules/addons/XPIProvider.jsm: ["XPIProvider"]
+15:18:27.251 [INFO] 1452172707251	addons.manager	DEBUG	Loaded provider scope for resource://gre/modules/LightweightThemeManager.jsm: ["LightweightThemeManager"]
+15:18:27.251 [INFO] 
+15:18:27.253 [INFO] 1452172707253	addons.manager	DEBUG	Loaded provider scope for resource://gre/modules/addons/GMPProvider.jsm
+15:18:27.253 [INFO] 
+15:18:27.254 [INFO] 1452172707254	addons.manager	DEBUG	Loaded provider scope for resource://gre/modules/addons/PluginProvider.jsm
+15:18:27.254 [INFO] 1452172707254	addons.manager	DEBUG	Starting provider: XPIProvider
+1452172707255	addons.xpi	DEBUG	startup
+15:18:27.255 [INFO] 1452172707255	addons.xpi	INFO	Mapping fxdriver@googlecode.com to C:\Users\saffia.NEWMEDIALABS\AppData\Local\Temp\anonymous.9eb07da99b444252a79b0272184717e9.webdriver-profile\extensions\fxdriver@googlecode.com
+15:18:27.255 [INFO] 
+15:18:27.255 [INFO] 1452172707255	addons.xpi	INFO	SystemAddonInstallLocation directory is missing
+15:18:27.256 [INFO] 1452172707256	addons.xpi	INFO	Mapping {972ce4c6-7e08-4474-a285-3208198ce6fd} to C:\Program Files (x86)\Mozilla Firefox\browser\extensions\{972ce4c6-7e08-4474-a285-3208198ce6fd}
+15:18:27.256 [INFO] 
+15:18:27.256 [INFO] 1452172707256	addons.xpi	DEBUG	Skipping unavailable install location app-system-share
+15:18:27.256 [INFO] 1452172707257	addons.xpi	DEBUG	Skipping unavailable install location app-system-local
+15:18:27.256 [INFO] 1452172707257	addons.xpi	INFO	Mapping fiddlerhook@fiddler2.com to C:\Program Files (x86)\Fiddler2\FiddlerHook
+15:18:27.256 [INFO] 1452172707257	addons.xpi	DEBUG	checkForChanges
+15:18:27.256 [INFO] 
+15:18:27.257 [INFO] 1452172707257	addons.xpi	DEBUG	Loaded add-on state from prefs: {}
+15:18:27.257 [INFO] 1452172707257	addons.xpi	DEBUG	New add-on fxdriver@googlecode.com in app-profile
+15:18:27.257 [INFO] 
+15:18:27.257 [INFO] 1452172707258	addons.xpi	DEBUG	getModTime: Recursive scan of fxdriver@googlecode.com
+15:18:27.257 [INFO] 
+15:18:27.261 [INFO] 1452172707261	addons.xpi	DEBUG	New add-on {972ce4c6-7e08-4474-a285-3208198ce6fd} in app-global
+15:18:27.261 [INFO] 
+15:18:27.261 [INFO] 1452172707261	addons.xpi	DEBUG	getModTime: Recursive scan of {972ce4c6-7e08-4474-a285-3208198ce6fd}
+15:18:27.261 [INFO] 1452172707262	addons.xpi	DEBUG	New add-on fiddlerhook@fiddler2.com in winreg-app-global
+15:18:27.261 [INFO] 1452172707262	addons.xpi	DEBUG	getModTime: Recursive scan of fiddlerhook@fiddler2.com
+15:18:27.264 [INFO] 1452172707264	addons.xpi	DEBUG	getInstallState changed: true, state: {"app-profile":{"fxdriver@googlecode.com":{"d":"C:\\Users\\saffia.NEWMEDIALABS\\AppData\\Local\\Temp\\anonymous.9eb07da99b444252a79b0272184717e9.webdriver-profile\\extensions\\fxdriver@googlecode.com","st":1452172707103,"mt":1447849608000}},"app-global":{"{972ce4c6-7e08-4474-a285-3208198ce6fd}":{"d":"C:\\Program Files (x86)\\Mozilla Firefox\\browser\\extensions\\{972ce4c6-7e08-4474-a285-3208198ce6fd}","st":1450779332427,"mt":1450779332283}},"winreg-app-global":{"fiddlerhook@fiddler2.com":{"d":"C:\\Program Files (x86)\\Fiddler2\\FiddlerHook","st":1445843684079,"mt":1443213230000}}}
+15:18:27.264 [INFO] 
+15:18:27.268 [INFO] 1452172707269	addons.xpi-utils	DEBUG	Opening XPI database C:\Users\saffia.NEWMEDIALABS\AppData\Local\Temp\anonymous.9eb07da99b444252a79b0272184717e9.webdriver-profile\extensions.json
+15:18:27.268 [INFO] 
+15:18:27.269 [INFO] 1452172707270	addons.xpi-utils	DEBUG	New add-on fxdriver@googlecode.com installed in app-profile
+15:18:27.269 [INFO] 
+15:18:27.272 [INFO] *** Blocklist::_loadBlocklistFromFile: blocklist is disabled
+15:18:27.272 [INFO] 
+15:18:27.294 [INFO] 1452172707295	DeferredSave.extensions.json	DEBUG	Save changes
+15:18:27.295 [INFO] 1452172707295	addons.xpi-utils	DEBUG	New add-on {972ce4c6-7e08-4474-a285-3208198ce6fd} installed in app-global
+15:18:27.295 [INFO] 
+15:18:27.297 [INFO] 1452172707298	DeferredSave.extensions.json	DEBUG	Starting timer
+15:18:27.298 [INFO] 1452172707298	DeferredSave.extensions.json	DEBUG	Save changes
+15:18:27.298 [INFO] 1452172707298	addons.xpi-utils	DEBUG	New add-on fiddlerhook@fiddler2.com installed in winreg-app-global
+15:18:27.301 [INFO] 1452172707302	addons.xpi-utils	WARN	Disabling foreign installed add-on fiddlerhook@fiddler2.com in winreg-app-global
+15:18:27.301 [INFO] 
+15:18:27.301 [INFO] 1452172707302	DeferredSave.extensions.json	DEBUG	Save changes
+15:18:27.301 [INFO] 1452172707302	addons.xpi-utils	INFO	Hiding the updated system add-ons.
+15:18:27.301 [INFO] 
+15:18:27.302 [INFO] 1452172707302	addons.manager	DEBUG	Registering startup change 'installed' for fxdriver@googlecode.com
+15:18:27.302 [INFO] 1452172707302	addons.xpi-utils	DEBUG	Make addon app-profile:fxdriver@googlecode.com visible
+15:18:27.302 [INFO] 1452172707302	DeferredSave.extensions.json	DEBUG	Save changes
+15:18:27.302 [INFO] 1452172707303	addons.xpi-utils	DEBUG	Make addon app-global:{972ce4c6-7e08-4474-a285-3208198ce6fd} visible
+15:18:27.302 [INFO] 1452172707303	DeferredSave.extensions.json	DEBUG	Save changes
+15:18:27.302 [INFO] 1452172707303	addons.manager	DEBUG	Registering startup change 'installed' for fiddlerhook@fiddler2.com
+15:18:27.302 [INFO] 
+15:18:27.302 [INFO] 1452172707303	addons.xpi-utils	DEBUG	Make addon winreg-app-global:fiddlerhook@fiddler2.com visible
+15:18:27.302 [INFO] 
+15:18:27.302 [INFO] 1452172707303	DeferredSave.extensions.json	DEBUG	Save changes
+15:18:27.303 [INFO] 1452172707303	addons.xpi	DEBUG	Updating XPIState for {"id":"fxdriver@googlecode.com","syncGUID":"EVA6Ww2U7ZdK","location":"app-profile","version":"2.48.0","type":"extension","internalName":null,"updateURL":null,"updateKey":null,"optionsURL":null,"optionsType":null,"aboutURL":null,"iconURL":null,"icon64URL":null,"defaultLocale":{"name":"Firefox WebDriver","description":"WebDriver implementation for Firefox","creator":"Simon Stewart","homepageURL":null},"visible":true,"active":true,"userDisabled":false,"appDisabled":false,"descriptor":"C:\\Users\\saffia.NEWMEDIALABS\\AppData\\Local\\Temp\\anonymous.9eb07da99b444252a79b0272184717e9.webdriver-profile\\extensions\\fxdriver@googlecode.com","installDate":1452172707103,"updateDate":1452172707103,"applyBackgroundUpdates":1,"bootstrap":false,"size":3222620,"sourceURI":null,"releaseNotesURI":null,"softDisabled":false,"foreignInstall":true,"hasBinaryComponents":true,"strictCompatibility":false,"locales":[],"targetApplications":[{"id":"{ec8030f7-c20a-464f-9b0e-13a3a9e97384}","minVersion":"3.0","maxVersion":"45.0"}],"targetPlatforms":[{"os":"Darwin","abi":null},{"os":"SunOS","abi":null},{"os":"FreeBSD","abi":null},{"os":"OpenBSD","abi":null},{"os":"WINNT","abi":"x86-msvc"},{"os":"Linux","abi":null}],"multiprocessCompatible":false,"signedState":0}
+15:18:27.303 [INFO] 1452172707303	addons.xpi	DEBUG	getModTime: Recursive scan of fxdriver@googlecode.com
+15:18:27.303 [INFO] 
+15:18:27.305 [INFO] 1452172707306	addons.xpi	DEBUG	Updating XPIState for {"id":"{972ce4c6-7e08-4474-a285-3208198ce6fd}","syncGUID":"4-MN60JvDpU7","location":"app-global","version":"43.0.1","type":"theme","internalName":"classic/1.0","updateURL":null,"updateKey":null,"optionsURL":null,"optionsType":null,"aboutURL":null,"iconURL":null,"icon64URL":null,"defaultLocale":{"name":"Default","description":"The default theme.","creator":"Mozilla","homepageURL":null,"contributors":["Mozilla Contributors"]},"visible":true,"active":true,"userDisabled":false,"appDisabled":false,"descriptor":"C:\\Program Files (x86)\\Mozilla Firefox\\browser\\extensions\\{972ce4c6-7e08-4474-a285-3208198ce6fd}","installDate":1450779332427,"updateDate":1450779332427,"applyBackgroundUpdates":1,"skinnable":true,"size":24172,"sourceURI":null,"releaseNotesURI":null,"softDisabled":false,"foreignInstall":false,"hasBinaryComponents":false,"strictCompatibility":true,"locales":[],"targetApplications":[{"id":"{ec8030f7-c20a-464f-9b0e-13a3a9e97384}","minVersion":"43.0.1","maxVersion":"43.0.1"}],"targetPlatforms":[]}
+15:18:27.305 [INFO] 
+15:18:27.305 [INFO] 1452172707306	addons.xpi	DEBUG	getModTime: Recursive scan of {972ce4c6-7e08-4474-a285-3208198ce6fd}
+15:18:27.306 [INFO] 1452172707306	addons.xpi	DEBUG	Updating XPIState for {"id":"fiddlerhook@fiddler2.com","syncGUID":"lusCFe8EyO5w","location":"winreg-app-global","version":"2.6.0.4","type":"extension","internalName":null,"updateURL":null,"updateKey":null,"optionsURL":null,"optionsType":null,"aboutURL":"chrome://fiddlerhook/content/about.xul","iconURL":"chrome://fiddlerhook/content/fiddlerhook.png","icon64URL":null,"defaultLocale":{"name":"FiddlerHook","description":"Integrate Fiddler into Firefox","creator":"Telerik","homepageURL":"http://fiddler2.com/r/?FIDDLERHOOKHELP"},"visible":true,"active":false,"userDisabled":true,"appDisabled":false,"descriptor":"C:\\Program Files (x86)\\Fiddler2\\FiddlerHook","installDate":1445843684079,"updateDate":1445843684079,"applyBackgroundUpdates":1,"bootstrap":false,"size":33900,"sourceURI":null,"releaseNotesURI":null,"softDisabled":false,"foreignInstall":true,"hasBinaryComponents":false,"strictCompatibility":false,"locales":[],"targetApplications":[{"id":"{ec8030f7-c20a-464f-9b0e-13a3a9e97384}","minVersion":"4.0","maxVersion":"42.*"}],"targetPlatforms":[],"multiprocessCompatible":false,"signedState":0}
+15:18:27.306 [INFO] 1452172707306	DeferredSave.extensions.json	DEBUG	Save changes
+15:18:27.306 [INFO] 1452172707306	addons.xpi	DEBUG	Updating database with changes to installed add-ons
+15:18:27.306 [INFO] 
+15:18:27.306 [INFO] 1452172707306	addons.xpi-utils	DEBUG	Updating add-on states
+15:18:27.306 [INFO] 1452172707307	addons.xpi-utils	DEBUG	Writing add-ons list
+15:18:27.316 [INFO] 1452172707316	addons.manager	DEBUG	Registering shutdown blocker for XPIProvider
+15:18:27.316 [INFO] 1452172707316	addons.manager	DEBUG	Provider finished startup: XPIProvider
+15:18:27.316 [INFO] 1452172707316	addons.manager	DEBUG	Starting provider: LightweightThemeManager
+15:18:27.316 [INFO] 1452172707317	addons.manager	DEBUG	Registering shutdown blocker for LightweightThemeManager
+15:18:27.316 [INFO] 1452172707317	addons.manager	DEBUG	Provider finished startup: LightweightThemeManager
+15:18:27.316 [INFO] 1452172707317	addons.manager	DEBUG	Starting provider: GMPProvider
+15:18:27.320 [INFO] 1452172707320	addons.manager	DEBUG	Registering shutdown blocker for GMPProvider
+15:18:27.320 [INFO] 1452172707321	addons.manager	DEBUG	Provider finished startup: GMPProvider
+15:18:27.320 [INFO] 1452172707321	addons.manager	DEBUG	Starting provider: PluginProvider
+15:18:27.320 [INFO] 
+15:18:27.320 [INFO] 1452172707321	addons.manager	DEBUG	Registering shutdown blocker for PluginProvider
+15:18:27.320 [INFO] 
+15:18:27.320 [INFO] 1452172707321	addons.manager	DEBUG	Provider finished startup: PluginProvider
+15:18:27.320 [INFO] 
+15:18:27.320 [INFO] 1452172707321	addons.manager	DEBUG	Completed startup sequence
+15:18:27.509 [INFO] 1452172707510	addons.manager	DEBUG	Starting provider: <unnamed-provider>
+15:18:27.509 [INFO] 
+1452172707510	addons.manager	DEBUG	Registering shutdown blocker for <unnamed-provider>
+15:18:27.510 [INFO] 1452172707510	addons.manager	DEBUG	Provider finished startup: <unnamed-provider>
+15:18:27.510 [INFO] 
+15:18:27.610 [INFO] 1452172707610	DeferredSave.extensions.json	DEBUG	Starting write
+15:18:27.749 [INFO] 1452172707749	addons.repository	DEBUG	No addons.json found.
+15:18:27.750 [INFO] 1452172707750	DeferredSave.addons.json	DEBUG	Save changes
+15:18:27.751 [INFO] 1452172707751	DeferredSave.addons.json	DEBUG	Starting timer
+15:18:27.759 [INFO] 1452172707760	addons.manager	DEBUG	Starting provider: PreviousExperimentProvider
+15:18:27.760 [INFO] 
+1452172707760	addons.manager	DEBUG	Registering shutdown blocker for PreviousExperimentProvider
+15:18:27.760 [INFO] 1452172707760	addons.manager	DEBUG	Provider finished startup: PreviousExperimentProvider
+15:18:27.760 [INFO] 
+15:18:27.762 [INFO] 1452172707762	DeferredSave.extensions.json	DEBUG	Write succeeded
+15:18:27.762 [INFO] 
+15:18:27.762 [INFO] 1452172707762	addons.xpi-utils	DEBUG	XPI Database saved, setting schema version preference to 17
+15:18:27.762 [INFO] 
+15:18:27.814 [INFO] 1452172707814	DeferredSave.addons.json	DEBUG	Starting write
+15:18:27.819 [INFO] 1452172707819	DeferredSave.addons.json	DEBUG	Write succeeded
+15:18:27.819 [INFO] 
+15:18:30.256 [INFO] Executing specification: Specification Heading
+15:18:30.260 [INFO] Executing scenario: Second scenario for the specification
+15:18:30.263 [DEBUG] Executing Step: * A context step which gets executed before every scenario
+15:18:30.269 [INFO] This is a sample context
+15:18:30.273 [DEBUG] Executing Step: * Say "hello again" to "gauge"
+15:18:30.277 [INFO] hello again, gauge!
+15:18:30.279 [DEBUG] Executing Step: * Step that takes a table 
+     |Product|Description                  |
+     |-------|-----------------------------|
+     |Gauge  |Test automation with ease    |
+     |Mingle |Agile project management     |
+     |Snap   |Hosted continuous integration|
+     |Gocd   |Continuous delivery platform |
+15:18:30.287 [INFO] Product
+15:18:30.287 [INFO] Description
+15:18:30.288 [INFO] Gauge|Test automation with ease
+15:18:30.288 [INFO] Mingle|Agile project management
+Snap|Hosted continuous integration
+Gocd|Continuous delivery platform
+15:18:30.407 [DEBUG] Plugin [Html Report] with pid [10804] has exited
+15:18:30.507 [INFO] Specifications: 	1 executed, 1 passed, 0 failed, 0 skipped
+15:18:30.507 [INFO] Scenarios: 	1 executed, 1 passed, 0 failed, 0 skipped
+15:18:30.507 [INFO] Total time taken: 3.774s
+15:18:32.481 [INFO] 1452172712481	addons.manager	DEBUG	Application has been upgraded
+15:18:32.481 [INFO] 
+15:18:32.489 [INFO] 1452172712489	addons.manager	DEBUG	Loaded provider scope for resource://gre/modules/addons/XPIProvider.jsm: ["XPIProvider"]
+15:18:32.490 [INFO] 1452172712490	addons.manager	DEBUG	Loaded provider scope for resource://gre/modules/LightweightThemeManager.jsm: ["LightweightThemeManager"]
+15:18:32.491 [INFO] 
+15:18:32.492 [INFO] 1452172712492	addons.manager	DEBUG	Loaded provider scope for resource://gre/modules/addons/GMPProvider.jsm
+15:18:32.492 [INFO] 
+15:18:32.493 [INFO] 1452172712493	addons.manager	DEBUG	Loaded provider scope for resource://gre/modules/addons/PluginProvider.jsm
+15:18:32.493 [INFO] 1452172712493	addons.manager	DEBUG	Starting provider: XPIProvider
+15:18:32.493 [INFO] 1452172712493	addons.xpi	DEBUG	startup
+15:18:32.493 [INFO] 
+15:18:32.494 [INFO] 1452172712494	addons.xpi	INFO	Mapping fxdriver@googlecode.com to C:\Users\saffia.NEWMEDIALABS\AppData\Local\Temp\anonymous.6234acacfdfd48739574e0787e9392f2.webdriver-profile\extensions\fxdriver@googlecode.com
+15:18:32.494 [INFO] 
+15:18:32.494 [INFO] 1452172712494	addons.xpi	INFO	SystemAddonInstallLocation directory is missing
+15:18:32.495 [INFO] 1452172712495	addons.xpi	INFO	Mapping {972ce4c6-7e08-4474-a285-3208198ce6fd} to C:\Program Files (x86)\Mozilla Firefox\browser\extensions\{972ce4c6-7e08-4474-a285-3208198ce6fd}
+15:18:32.495 [INFO] 
+15:18:32.495 [INFO] 1452172712495	addons.xpi	DEBUG	Skipping unavailable install location app-system-share
+15:18:32.495 [INFO] 1452172712495	addons.xpi	DEBUG	Skipping unavailable install location app-system-local
+15:18:32.495 [INFO] 1452172712495	addons.xpi	INFO	Mapping fiddlerhook@fiddler2.com to C:\Program Files (x86)\Fiddler2\FiddlerHook
+15:18:32.496 [INFO] 1452172712496	addons.xpi	DEBUG	checkForChanges
+15:18:32.496 [INFO] 
+15:18:32.496 [INFO] 1452172712496	addons.xpi	DEBUG	Loaded add-on state from prefs: {}
+15:18:32.496 [INFO] 1452172712496	addons.xpi	DEBUG	New add-on fxdriver@googlecode.com in app-profile
+15:18:32.496 [INFO] 
+15:18:32.496 [INFO] 1452172712496	addons.xpi	DEBUG	getModTime: Recursive scan of fxdriver@googlecode.com
+15:18:32.496 [INFO] 
+15:18:32.500 [INFO] 1452172712500	addons.xpi	DEBUG	New add-on {972ce4c6-7e08-4474-a285-3208198ce6fd} in app-global
+15:18:32.500 [INFO] 
+15:18:32.500 [INFO] 1452172712500	addons.xpi	DEBUG	getModTime: Recursive scan of {972ce4c6-7e08-4474-a285-3208198ce6fd}
+15:18:32.500 [INFO] 1452172712500	addons.xpi	DEBUG	New add-on fiddlerhook@fiddler2.com in winreg-app-global
+15:18:32.501 [INFO] 1452172712501	addons.xpi	DEBUG	getModTime: Recursive scan of fiddlerhook@fiddler2.com
+15:18:32.503 [INFO] 1452172712502	addons.xpi	DEBUG	getInstallState changed: true, state: {"app-profile":{"fxdriver@googlecode.com":{"d":"C:\\Users\\saffia.NEWMEDIALABS\\AppData\\Local\\Temp\\anonymous.6234acacfdfd48739574e0787e9392f2.webdriver-profile\\extensions\\fxdriver@googlecode.com","st":1452172712350,"mt":1447849608000}},"app-global":{"{972ce4c6-7e08-4474-a285-3208198ce6fd}":{"d":"C:\\Program Files (x86)\\Mozilla Firefox\\browser\\extensions\\{972ce4c6-7e08-4474-a285-3208198ce6fd}","st":1450779332427,"mt":1450779332283}},"winreg-app-global":{"fiddlerhook@fiddler2.com":{"d":"C:\\Program Files (x86)\\Fiddler2\\FiddlerHook","st":1445843684079,"mt":1443213230000}}}
+15:18:32.503 [INFO] 
+15:18:32.507 [INFO] 1452172712507	addons.xpi-utils	DEBUG	Opening XPI database C:\Users\saffia.NEWMEDIALABS\AppData\Local\Temp\anonymous.6234acacfdfd48739574e0787e9392f2.webdriver-profile\extensions.json
+15:18:32.507 [INFO] 
+15:18:32.508 [INFO] 1452172712508	addons.xpi-utils	DEBUG	New add-on fxdriver@googlecode.com installed in app-profile
+15:18:32.508 [INFO] 
+15:18:32.511 [INFO] *** Blocklist::_loadBlocklistFromFile: blocklist is disabled
+15:18:32.511 [INFO] 
+15:18:32.535 [INFO] 1452172712535	DeferredSave.extensions.json	DEBUG	Save changes
+15:18:32.535 [INFO] 1452172712535	addons.xpi-utils	DEBUG	New add-on {972ce4c6-7e08-4474-a285-3208198ce6fd} installed in app-global
+15:18:32.535 [INFO] 
+15:18:32.537 [INFO] 1452172712537	DeferredSave.extensions.json	DEBUG	Starting timer
+15:18:32.538 [INFO] 1452172712538	DeferredSave.extensions.json	DEBUG	Save changes
+15:18:32.538 [INFO] 1452172712538	addons.xpi-utils	DEBUG	New add-on fiddlerhook@fiddler2.com installed in winreg-app-global
+15:18:32.541 [INFO] 1452172712541	addons.xpi-utils	WARN	Disabling foreign installed add-on fiddlerhook@fiddler2.com in winreg-app-global
+15:18:32.541 [INFO] 
+15:18:32.541 [INFO] 1452172712542	DeferredSave.extensions.json	DEBUG	Save changes
+15:18:32.541 [INFO] 1452172712542	addons.xpi-utils	INFO	Hiding the updated system add-ons.
+15:18:32.542 [INFO] 
+15:18:32.542 [INFO] 1452172712542	addons.manager	DEBUG	Registering startup change 'installed' for fxdriver@googlecode.com
+15:18:32.542 [INFO] 1452172712542	addons.xpi-utils	DEBUG	Make addon app-profile:fxdriver@googlecode.com visible
+15:18:32.542 [INFO] 1452172712542	DeferredSave.extensions.json	DEBUG	Save changes
+15:18:32.542 [INFO] 1452172712542	addons.xpi-utils	DEBUG	Make addon app-global:{972ce4c6-7e08-4474-a285-3208198ce6fd} visible
+15:18:32.542 [INFO] 1452172712542	DeferredSave.extensions.json	DEBUG	Save changes
+15:18:32.542 [INFO] 1452172712543	addons.manager	DEBUG	Registering startup change 'installed' for fiddlerhook@fiddler2.com
+15:18:32.542 [INFO] 
+15:18:32.543 [INFO] 1452172712543	addons.xpi-utils	DEBUG	Make addon winreg-app-global:fiddlerhook@fiddler2.com visible
+15:18:32.543 [INFO] 
+15:18:32.543 [INFO] 1452172712543	DeferredSave.extensions.json	DEBUG	Save changes
+15:18:32.543 [INFO] 1452172712543	addons.xpi	DEBUG	Updating XPIState for {"id":"fxdriver@googlecode.com","syncGUID":"Ga2fXBCKZjlJ","location":"app-profile","version":"2.48.0","type":"extension","internalName":null,"updateURL":null,"updateKey":null,"optionsURL":null,"optionsType":null,"aboutURL":null,"iconURL":null,"icon64URL":null,"defaultLocale":{"name":"Firefox WebDriver","description":"WebDriver implementation for Firefox","creator":"Simon Stewart","homepageURL":null},"visible":true,"active":true,"userDisabled":false,"appDisabled":false,"descriptor":"C:\\Users\\saffia.NEWMEDIALABS\\AppData\\Local\\Temp\\anonymous.6234acacfdfd48739574e0787e9392f2.webdriver-profile\\extensions\\fxdriver@googlecode.com","installDate":1452172712350,"updateDate":1452172712350,"applyBackgroundUpdates":1,"bootstrap":false,"size":3222620,"sourceURI":null,"releaseNotesURI":null,"softDisabled":false,"foreignInstall":true,"hasBinaryComponents":true,"strictCompatibility":false,"locales":[],"targetApplications":[{"id":"{ec8030f7-c20a-464f-9b0e-13a3a9e97384}","minVersion":"3.0","maxVersion":"45.0"}],"targetPlatforms":[{"os":"Darwin","abi":null},{"os":"SunOS","abi":null},{"os":"FreeBSD","abi":null},{"os":"OpenBSD","abi":null},{"os":"WINNT","abi":"x86-msvc"},{"os":"Linux","abi":null}],"multiprocessCompatible":false,"signedState":0}
+1452172712543	addons.xpi	DEBUG	getModTime: Recursive scan of fxdriver@googlecode.com
+15:18:32.545 [INFO] 1452172712545	addons.xpi	DEBUG	Updating XPIState for {"id":"{972ce4c6-7e08-4474-a285-3208198ce6fd}","syncGUID":"m91gFc2iwAU4","location":"app-global","version":"43.0.1","type":"theme","internalName":"classic/1.0","updateURL":null,"updateKey":null,"optionsURL":null,"optionsType":null,"aboutURL":null,"iconURL":null,"icon64URL":null,"defaultLocale":{"name":"Default","description":"The default theme.","creator":"Mozilla","homepageURL":null,"contributors":["Mozilla Contributors"]},"visible":true,"active":true,"userDisabled":false,"appDisabled":false,"descriptor":"C:\\Program Files (x86)\\Mozilla Firefox\\browser\\extensions\\{972ce4c6-7e08-4474-a285-3208198ce6fd}","installDate":1450779332427,"updateDate":1450779332427,"applyBackgroundUpdates":1,"skinnable":true,"size":24172,"sourceURI":null,"releaseNotesURI":null,"softDisabled":false,"foreignInstall":false,"hasBinaryComponents":false,"strictCompatibility":true,"locales":[],"targetApplications":[{"id":"{ec8030f7-c20a-464f-9b0e-13a3a9e97384}","minVersion":"43.0.1","maxVersion":"43.0.1"}],"targetPlatforms":[]}
+15:18:32.545 [INFO] 
+1452172712545	addons.xpi	DEBUG	getModTime: Recursive scan of {972ce4c6-7e08-4474-a285-3208198ce6fd}
+15:18:32.546 [INFO] 1452172712546	addons.xpi	DEBUG	Updating XPIState for {"id":"fiddlerhook@fiddler2.com","syncGUID":"JxYDCK-9Oe3o","location":"winreg-app-global","version":"2.6.0.4","type":"extension","internalName":null,"updateURL":null,"updateKey":null,"optionsURL":null,"optionsType":null,"aboutURL":"chrome://fiddlerhook/content/about.xul","iconURL":"chrome://fiddlerhook/content/fiddlerhook.png","icon64URL":null,"defaultLocale":{"name":"FiddlerHook","description":"Integrate Fiddler into Firefox","creator":"Telerik","homepageURL":"http://fiddler2.com/r/?FIDDLERHOOKHELP"},"visible":true,"active":false,"userDisabled":true,"appDisabled":false,"descriptor":"C:\\Program Files (x86)\\Fiddler2\\FiddlerHook","installDate":1445843684079,"updateDate":1445843684079,"applyBackgroundUpdates":1,"bootstrap":false,"size":33900,"sourceURI":null,"releaseNotesURI":null,"softDisabled":false,"foreignInstall":true,"hasBinaryComponents":false,"strictCompatibility":false,"locales":[],"targetApplications":[{"id":"{ec8030f7-c20a-464f-9b0e-13a3a9e97384}","minVersion":"4.0","maxVersion":"42.*"}],"targetPlatforms":[],"multiprocessCompatible":false,"signedState":0}
+15:18:32.546 [INFO] 1452172712546	DeferredSave.extensions.json	DEBUG	Save changes
+15:18:32.546 [INFO] 1452172712546	addons.xpi	DEBUG	Updating database with changes to installed add-ons
+15:18:32.546 [INFO] 1452172712546	addons.xpi-utils	DEBUG	Updating add-on states
+15:18:32.546 [INFO] 1452172712547	addons.xpi-utils	DEBUG	Writing add-ons list
+15:18:32.554 [INFO] 1452172712555	addons.manager	DEBUG	Registering shutdown blocker for XPIProvider
+15:18:32.554 [INFO] 1452172712555	addons.manager	DEBUG	Provider finished startup: XPIProvider
+15:18:32.554 [INFO] 1452172712555	addons.manager	DEBUG	Starting provider: LightweightThemeManager
+15:18:32.554 [INFO] 1452172712555	addons.manager	DEBUG	Registering shutdown blocker for LightweightThemeManager
+15:18:32.554 [INFO] 1452172712555	addons.manager	DEBUG	Provider finished startup: LightweightThemeManager
+15:18:32.555 [INFO] 1452172712555	addons.manager	DEBUG	Starting provider: GMPProvider
+15:18:32.558 [INFO] 1452172712558	addons.manager	DEBUG	Registering shutdown blocker for GMPProvider
+15:18:32.558 [INFO] 1452172712559	addons.manager	DEBUG	Provider finished startup: GMPProvider
+15:18:32.558 [INFO] 1452172712559	addons.manager	DEBUG	Starting provider: PluginProvider
+15:18:32.558 [INFO] 1452172712559	addons.manager	DEBUG	Registering shutdown blocker for PluginProvider
+15:18:32.558 [INFO] 
+15:18:32.558 [INFO] 1452172712559	addons.manager	DEBUG	Provider finished startup: PluginProvider
+15:18:32.558 [INFO] 
+15:18:32.558 [INFO] 1452172712559	addons.manager	DEBUG	Completed startup sequence
+15:18:32.756 [INFO] 1452172712756	addons.manager	DEBUG	Starting provider: <unnamed-provider>
+15:18:32.756 [INFO] 
+1452172712756	addons.manager	DEBUG	Registering shutdown blocker for <unnamed-provider>
+15:18:32.756 [INFO] 1452172712756	addons.manager	DEBUG	Provider finished startup: <unnamed-provider>
+15:18:32.756 [INFO] 
+15:18:32.854 [INFO] 1452172712854	DeferredSave.extensions.json	DEBUG	Starting write
+15:18:33.064 [INFO] 1452172713065	addons.repository	DEBUG	No addons.json found.
+15:18:33.065 [INFO] 1452172713065	DeferredSave.addons.json	DEBUG	Save changes
+15:18:33.066 [INFO] 1452172713066	DeferredSave.addons.json	DEBUG	Starting timer
+15:18:33.074 [INFO] 1452172713074	addons.manager	DEBUG	Starting provider: PreviousExperimentProvider
+15:18:33.074 [INFO] 
+1452172713074	addons.manager	DEBUG	Registering shutdown blocker for PreviousExperimentProvider
+15:18:33.075 [INFO] 1452172713075	addons.manager	DEBUG	Provider finished startup: PreviousExperimentProvider
+15:18:33.075 [INFO] 
+15:18:33.080 [INFO] 1452172713080	DeferredSave.extensions.json	DEBUG	Write succeeded
+15:18:33.080 [INFO] 
+15:18:33.080 [INFO] 1452172713080	addons.xpi-utils	DEBUG	XPI Database saved, setting schema version preference to 17
+15:18:33.080 [INFO] 
+15:18:33.134 [INFO] 1452172713134	DeferredSave.addons.json	DEBUG	Starting write
+15:18:33.139 [INFO] 1452172713139	DeferredSave.addons.json	DEBUG	Write succeeded
+15:18:33.139 [INFO] 
+15:18:35.504 [INFO] Executing specification: Landing Page
+15:18:35.508 [INFO] Executing scenario: Correct text is on Landing Page
+15:18:35.511 [DEBUG] Executing Step: * Go to home page
+15:18:35.760 [DEBUG] Executing Step: * I see a "Hello Gauge" message
+15:18:35.873 [DEBUG] Executing Step: * I see a "A simple app to facilitate Gauge automation testing." description
+15:18:35.896 [DEBUG] Executing Step: * I see a "View Book Listing" link
+15:18:36.035 [DEBUG] Plugin [Html Report] with pid [6912] has exited
+15:18:36.136 [INFO] Specifications: 	1 executed, 1 passed, 0 failed, 0 skipped
+15:18:36.136 [INFO] Scenarios: 	1 executed, 1 passed, 0 failed, 0 skipped
+15:18:36.136 [INFO] Total time taken: 4.153s
