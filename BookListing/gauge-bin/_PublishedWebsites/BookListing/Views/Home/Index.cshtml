@@ -1,0 +1,13 @@
+﻿@{
+	ViewBag.Title = "Home Page";
+}
+
+<div class="jumbotron">
+	<h1 id="welcomeMessage">Hello Gauge</h1>
+	<div>
+		<p id="description">
+			A simple app to facilitate Gauge automation testing.
+		</p>
+		@Html.ActionLink("View Book Listing", "Index","Book", null,new {id="viewBooksLink"})
+	</div>
+</div>

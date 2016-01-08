@@ -1,8 +1,5 @@
-﻿using System;
-using System.Collections.Generic;
+﻿using System.Collections.Generic;
 using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 using Gauge.CSharp.Lib;
 using Gauge.CSharp.Lib.Attribute;
 using NUnit.Framework;
@@ -50,23 +47,15 @@ namespace GaugeProjectTemplate
 			var foundItems = tds.Where(td => td.Text.ToLower() == title.ToLower());
 
 			Assert.IsNotNull(foundItems);
-			Assert.IsNotEmpty(foundItems);
-			Assert.GreaterOrEqual(1, foundItems.Count());
-			foreach (var item in foundItems)
+			var webElements = foundItems as IList<IWebElement> ?? foundItems.ToList();
+			Assert.IsNotEmpty(webElements);
+			Assert.GreaterOrEqual(1, webElements.Count());
+			foreach (var item in webElements)
 			{
 				Assert.AreEqual(item.Text.ToLower(), title.ToLower());
 			}
 		}
-
-		public void VerifyBookIsNotListed()
-		{
-			var tds = Driver.FindElements(By.TagName("td"));
 		
-			Assert.IsEmpty(tds);
-			var error = Driver.FindElement(By.Id("error"));
-			Assert.AreEqual("No results found.", error.Text);
-		}
-
 		[Step("Check that the following books are not listed <table>")]
 		public void ListBooksDoesNotExist(Table table)
 		{
@@ -79,6 +68,13 @@ namespace GaugeProjectTemplate
 			}
 		}
 
+		public void VerifyBookIsNotListed()
+		{
+			var tds = Driver.FindElements(By.TagName("td"));
 		
+			Assert.IsEmpty(tds);
+			var error = Driver.FindElement(By.Id("error"));
+			Assert.AreEqual("No results found.", error.Text);
+		}
 	}
 }
